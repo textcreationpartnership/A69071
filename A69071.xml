@@ -1,0 +1,747 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions to know the true church. Written by George Carleton, Doctor of Diuinitie</title>
+            <author>Carleton, George, 1559-1628.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 74 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69071</idno>
+            <idno type="STC">STC 4632</idno>
+            <idno type="STC">ESTC S112818</idno>
+            <idno type="EEBO-CITATION">99848061</idno>
+            <idno type="PROQUEST">99848061</idno>
+            <idno type="VID">13135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13135)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 646:7, 1478:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions to know the true church. Written by George Carleton, Doctor of Diuinitie</title>
+                  <author>Carleton, George, 1559-1628.</author>
+               </titleStmt>
+               <extent>[32], 111, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Heading, A2r has "Charles". Variant: heading in an earlier setting, with "Chales".</note>
+                  <note>Identified as STC 4632a on UMI microfilm reel 646.</note>
+                  <note>Reproductions of the originals in the Folger Shakespeare Library and Emmanuel College (University of Cambridge). Library.</note>
+                  <note>Appears at reel 646 (Folger Shakespeare Library copy) and at reel 1478 (Emmanuel College (University of Cambridge). Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Church --  Marks --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:13135:1"/>
+            <pb facs="tcp:13135:1"/>
+            <p>DIRECTIONS TO KNOW THE TRVE CHVRCH.</p>
+            <p>Written by GEORGE CARLETON, Doctor of Diuinitie.</p>
+            <figure/>
+            <p>Imprinted at LONDON by IOHN BILL. 1615.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:13135:2"/>
+            <pb facs="tcp:13135:2"/>
+            <head>TO THE HIGH, NOBLE, AND moſt vertuous, CHARLES, PRINCE OF GREAT BRITAINE, Duke of CORNWAL, and of YORKE, &amp;c.</head>
+            <head type="sub">
+               <hi>The ſpirit of Wiſedome and Power,</hi> to know and execute the Actions of a PRINCE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Queene of SHEBA (moſt noble PRINCE) had heard the wiſedome of SALOMON, and ob<g ref="char:EOLhyphen"/>ſerued the order of his houſe; ſhee pronounced
+<pb facs="tcp:13135:3"/>
+his ſeruants <hi>Happy,</hi> that did attend vpon him, and heard his <hi>Wiſedome.</hi> It is true, that not onely the houſhold ſeruants find an happines in a wiſe Prince that feareth God, (for in the feare of God conſi<g ref="char:EOLhyphen"/>ſteth all wiſedome) but this fruit of happineſſe is alſo ſpread and powreth it ſelfe (as blood fro<g ref="char:cmbAbbrStroke">̄</g> the heart through all the veines) to all the Subiects that are to bee gouerned by ſuch a Head. Behold then, how your happineſſe draweth with it the happineſſe of
+<pb facs="tcp:13135:3"/>
+all other vnder you. Of this, my ſelfe haue had ſome experience, which I thinke my ſelfe bound with my humble duety and thankefulneſſe to re<g ref="char:EOLhyphen"/>member: For not many yeeres ſince I publiſhed a Booke of <hi>the conſent of the Catholicke Church against the Tridentines:</hi> wherein I was deſirous to offer my ſeruice to God for the ma<g ref="char:EOLhyphen"/>nifeſting of his truth. But your Royall Father, our gracious Soueraigne, and your Highnes were plea<g ref="char:EOLhyphen"/>ſed ſo effectually to declare
+<pb facs="tcp:13135:4"/>
+your gracious acceptance thereof, as if it had beene a ſeruice done to your ſelues. May wee not then ſay with the Queene of SHEBA, <hi>Happy are the ſeruants of ſuch a King, and of ſuch a Prince the Kings ſonne?</hi> And herein wee finde great difference be<g ref="char:EOLhyphen"/>tweene the caſe of your ſeruants, and the caſe of them that ſerue the Pope, who is found to be the trobler, not only of yours, but of all the Kingdomes in Chriſtendom: For your ſeruants cannot doe any
+<pb facs="tcp:13135:4"/>
+true ſeruice to God, but it pleaſeth you, and is accep<g ref="char:EOLhyphen"/>ted as a ſeruice done to you: But his ſeruants can<g ref="char:EOLhyphen"/>not pleaſe him by ſeeking to pleaſe God but if they will haue his fauour, they muſt looſe the fauour and ſeruice of God, by ventu<g ref="char:EOLhyphen"/>ring vpon ſome bloody ſeruice acceptable to him: for what other are now acceptable to him but ſuch? This thing muſt needes giue your ſer<g ref="char:EOLhyphen"/>uants vnder your graci<g ref="char:EOLhyphen"/>ous Fauour and Prote<g ref="char:EOLhyphen"/>ction, a greater encou<g ref="char:EOLhyphen"/>ragement
+<pb facs="tcp:13135:5"/>
+then our aduer<g ref="char:EOLhyphen"/>ſaries can finde. So that if wee ſhould be ſlacke in promoting GODS cauſe vnder ſuch gracious Pro<g ref="char:EOLhyphen"/>tectours, a great condem<g ref="char:EOLhyphen"/>nation might iuſtly bee laide vpon vs. And this maketh me the bolder in this preſent ſeruice. Since the time of the publiſhing of that Booke, being writ<g ref="char:EOLhyphen"/>ten in Latine (for I refer<g ref="char:EOLhyphen"/>red it to the iudgement of the learned, and thought the vulgar ſort were not to be troubled with ſuch things wherof they could
+<pb facs="tcp:13135:5"/>
+not iudge) diuers bookes haue come to my handes that are written in Engliſh to ſeduce the ſimple that cannot iudge, inſinua<g ref="char:EOLhyphen"/>ting to them faire preten<g ref="char:EOLhyphen"/>ces of a ſhewe of the Church: Which ſhewe of the Church is the thing that carrieth away many that cannot iudge be<g ref="char:EOLhyphen"/>tween trueths and ſhewes. Theſe bookes being writ<g ref="char:EOLhyphen"/>ten with great confidence, and little knowledge, doe worke much harme a<g ref="char:EOLhyphen"/>mong many of his Maie<g ref="char:EOLhyphen"/>ſties Subiects, that are led
+<pb facs="tcp:13135:6"/>
+with appearances and ſha<g ref="char:EOLhyphen"/>dows. Now for the helpe and information of theſe, I haue drawen out of the greater worke, ſome ſhort Directions to know the Church, (the want of which directions ſeemeth to trouble many of the weaker ſort) which may giue ſome light to thoſe that are ſo ſeduced, and may helpe to diſpell that darkeneſſe, which their blinde Teachers haue brought vpon them, and would therein hold them ſtill blinded. This I pre<g ref="char:EOLhyphen"/>ſent
+<pb facs="tcp:13135:6"/>
+to your Highneſſe, and am bolde herein to ſeeke your gracious pro<g ref="char:EOLhyphen"/>tection, both becauſe my ſeruice, and whatſoeuer I can doe, is a due debt to your Highneſſe, and alſo that by your fauourable countenance it may finde more fauour abroad, that the imperfections of the Writer may bee couered and excuſed by the wor<g ref="char:EOLhyphen"/>thineſſe of the Patrone. And thus with my daily prayers to God for an in<g ref="char:EOLhyphen"/>creaſe of theſe graces in your Highneſſe, that may
+<pb facs="tcp:13135:7"/>
+leade you both to tempo<g ref="char:EOLhyphen"/>rall and eternall happi<g ref="char:EOLhyphen"/>neſſe; I humbly take my leaue, and reſt</p>
+            <closer>
+               <signed>Your Highneſſe moſt humble ſeruant and Chaplaine, George Carleton.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:13135:7"/>
+            <head>A PREFACE, Containing an Aduertiſe<g ref="char:EOLhyphen"/>ment to the Readers, who call themſelues CATHO<g ref="char:EOLhyphen"/>LIKES.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entle Readers, for your ſake was this vnderta<g ref="char:EOLhyphen"/>ken: Your inſtruction is my deſire and prayer. <hi>Moſes</hi> did wiſh that all the people of<note place="margin">Num. 11. 21.</note> God might propheſie, and that God would giue them his Spirit: and ſo do wee wiſh. But there bee many falſe teachers, that keepe the people in ig<g ref="char:EOLhyphen"/>norance, and are deſirous that they may neither heare nor vnderſtand a<g ref="char:EOLhyphen"/>ny thing, but as they receiue from their lippes. Hence is it that ſo many Bookes are written, and ſecretly con<g ref="char:EOLhyphen"/>ueyed into your hands, of purpoſe to ſe<g ref="char:EOLhyphen"/>duce you. The care of your good hath mooued mee to take this paines, to lay downe theſe directions, that haue e<g ref="char:EOLhyphen"/>uer bene the directions of the Church,
+<pb facs="tcp:13135:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:13135:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:13135:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:13135:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:13135:10"/>
+and muſt euer bee: that you may bet<g ref="char:EOLhyphen"/>ter vnderstand your owne estate, and the oſtentation of them that call them<g ref="char:EOLhyphen"/>ſelues <hi>Catholikes,</hi> but are not, that leade you with vaine ſhewes and ap<g ref="char:EOLhyphen"/>pearances of things that are not, as iugglers vſe to doe. If any ſhall ad<g ref="char:EOLhyphen"/>dreſſe an anſwere to me, I will informe you before hand how you may eaſily iudge of the anſwere. For wee know what they can doe, we know their beſt and their worſt: but for your ſatiſfa<g ref="char:EOLhyphen"/>ction, which is all my care, I will heere warne you of the maner of their wri<g ref="char:EOLhyphen"/>ting; that your ſelues may bee able to iudge of the anſwere, if any ſhall be re<g ref="char:EOLhyphen"/>turned. For whereas I haue proued, that the rule of faith is onely the do<g ref="char:EOLhyphen"/>ctrine written in the holy Scriptures; They happily may ſhew you out of the ancient writers, that there be ſome o<g ref="char:EOLhyphen"/>ther things admitted in the Church, which are not written: So doeth Car<g ref="char:EOLhyphen"/>dinall <hi>Bellarmine</hi> bring ancient teſti<g ref="char:EOLhyphen"/>monies for ſome things vnwritten. But theſe things wee confeſſe and acknow<g ref="char:EOLhyphen"/>ledge,
+<pb facs="tcp:13135:10"/>
+that ſome things vnwritten must bee admitted into the Church: but theſe are things in the diſcipline of the Church: And therefore wee holde things of diſcipline ſtill vn<g ref="char:EOLhyphen"/>written. But if you haue a care to ſaue your ſoules from theſe ſleights, bid them prooue, that things vnwrit<g ref="char:EOLhyphen"/>ten muſt bee receiued as doctrines of faith. For the controuerſie betweene vs and them is not of vnwritten tra<g ref="char:EOLhyphen"/>ditions in externall ceremonies, but of vnwritten Traditions in the rule of Faith. We ſay with <hi>Tertullian, Re<g ref="char:EOLhyphen"/>gula<note place="margin">Lib. de vir<g ref="char:EOLhyphen"/>gin. velan<g ref="char:EOLhyphen"/>dis.</note> fidei vna omnino eſt, ſola im<g ref="char:EOLhyphen"/>mobilis, &amp; irreformabilis: hac lege fidei manente, caetera iam diſcipli<g ref="char:EOLhyphen"/>nae &amp; conuerſationis admittunt nouitatem correctionis.</hi> That is, the rule of Faith is one altogether, onely vnchangeable, and vnreformable: this law of Faith remaining the ſame, other things pertaining to diſcipline and conuerſation may be changed and corrected. Euer ſince this controuerſie begun between vs and them of Rome,
+<pb facs="tcp:13135:11"/>
+our writers haue confeſſed this that I ſay, and haue challenged their aduer<g ref="char:EOLhyphen"/>ſaries to produce ſome plaine teſtimo<g ref="char:EOLhyphen"/>nies that may clearely prooue, that an vnwritten doctrine may bee receiued into the rule of Faith: which thing to this day they haue not done; what they are like to doe heereafter, you may iudge by that which is done. Now ſuffer not your ſelues to bee blind-fol<g ref="char:EOLhyphen"/>ded: Take a courage vnto you, and a diſcerning ſpirit, to vnderſtand the things that concerne you ſo neerely. And whereas I haue proued that the <hi>Pope</hi> was neuer admitted Iudge of Faith before the <hi>Trent Councill:</hi> it may be that ſome of theſe blinde ſedu<g ref="char:EOLhyphen"/>cers may tell you, that the <hi>Pope</hi> hath beene a Iudge, and helde a Iudge in Chriſtendome by ſome, long time be<g ref="char:EOLhyphen"/>fore: which in ſome ſort is true, but not against me. For hee hath bene by diuers reputed a Iudge of controuer<g ref="char:EOLhyphen"/>ſies of right and wrong, in ſuch things as come to bee pleaded by the Canon Law: But of matters of Faith he was
+<pb facs="tcp:13135:11"/>
+neuer held to be a Iudge. Therefore the <hi>Popes</hi> Canons doe confeſſe, that<note place="margin">Dist. 2.</note> for expoſition of Scriptures and mat<g ref="char:EOLhyphen"/>ters of Faith, the Expoſitors of Scrip<g ref="char:EOLhyphen"/>tures are to bee preferred before the <hi>Popes,</hi> as for their learning and god<g ref="char:EOLhyphen"/>lineſſe farre excelling the <hi>Popes</hi> in the knowledge of the Scripture: but <hi>in cauſis definiendis,</hi> that is, in deci<g ref="char:EOLhyphen"/>ding of cauſes, and ending of ſuits, which come to bee pleaded in the <hi>Popes</hi> Courts, the <hi>Popes</hi> are prefer<g ref="char:EOLhyphen"/>red for the height of their place. And this is all that their owne Cannons haue yeelded to them before the <hi>Trent Councill.</hi> I warne you of theſe things before hand, that your ſelues may bee the better able to iudge of any anſwer which may be returned againſt mee. And I thinke that this warning may ſuffice to inſtruct you againſt their idle anſweres: ſo that I ſhall not need to trouble my ſelfe any further. I haue bene ſhort in collecting theſe directi<g ref="char:EOLhyphen"/>ons for theſe cauſes: Firſt, becauſe in this ſcribling age I would not trouble
+<pb facs="tcp:13135:12"/>
+the Church with vnneedfull writings. Secondly, becauſe I would inuite the moe Readers, who may bee content to reade a ſhort Booke, whereas length doth often deter ſuch as either haue not much leiſure, or are coy of their pains. Laſtly, becauſe if any will anſwere it, they may ſee that I haue ſomewhat helped them in ſhortneſſe. And there<g ref="char:EOLhyphen"/>fore they may bee the better contented to ſet downe my words. Now where<g ref="char:EOLhyphen"/>as your ſeducers pretend that they loue the ſaluation of your ſoules, and glorie ſo much in the name of the Church, you must bee carefull to trie the ſpirit that ſpeaketh in them: for it is as great a fault to beleeue eury thing without triall, as to beleeue nothing. It is Saint <hi>Iohns</hi> exhortation to you, <hi>Dearely</hi>
+               <note place="margin">1. Ioh. 4. 1</note> 
+               <hi>beloued, beleeue not euery ſpirit, but trie the ſpirits, whether they are of God, for many falſe prophets are gone out into the world.</hi> If S. <hi>Iohn</hi> had cauſe euen in the beginning of the Gospel to warne the people a<g ref="char:EOLhyphen"/>gainst ſeducers: what great cauſe
+<pb facs="tcp:13135:12"/>
+haue we to warne you? For theſe falſe Prophets are now growen both in number and in cunning: But their multitude and cunning would vtterly faile them, if they did not preſume vpon your ignorance. Wee labour to plant knowledge in all, and are deſi<g ref="char:EOLhyphen"/>rous that euery man might know the things needfull for his ſaluation: they labour to holde all in ignorance: their hope is not in the goodneſſe of their cauſe: for they ſee the ruines of Baby<g ref="char:EOLhyphen"/>lon falling euery day: Only their care is to blinde you, and keepe you igno<g ref="char:EOLhyphen"/>rant. They know well, that if you had knowledge to diſcerne their ſubtilties, it is not the pretence of the Church that could ſo much preuaile; whereas now the very bare name of the Church doeth trouble and entangle many of the ſimple, as a ſnare to catch the ignorant, a iuſt iudgment of igno<g ref="char:EOLhyphen"/>rance. Wherein they deale with you, as the <hi>Arrians</hi> did deale with a com<g ref="char:EOLhyphen"/>pany of vnlearned Biſhops and Prieſts in the Councill of <hi>Ariminum.</hi> For the
+<pb facs="tcp:13135:13"/>
+               <hi>Arrians</hi> hauing procured the exile of the moſt worthie and beſt learned Bi<g ref="char:EOLhyphen"/>ſhops, perceiuing that the companie that was left, though they were not ve<g ref="char:EOLhyphen"/>ry learned, yet would not be perſwa<g ref="char:EOLhyphen"/>ded directly to diſanull any thing that had beene concluded before in the Councill of <hi>Nice:</hi> did abuſe their ig<g ref="char:EOLhyphen"/>norance in propoſing the matter: For they demanded of them, whether they would worſhippe <hi>Homoouſion,</hi> or<note place="margin">Ruffin. lib. 10. hiſtor. Eccleſ.</note> Chriſt? they not vnderſtanding what the Greeke word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> did ſignifie, reiected it with a kinde of execration, being as they thought oppoſed againſt Chriſt: Whereas if they had vnder<g ref="char:EOLhyphen"/>ſtood the matter aright, they would haue knowen that this word agreed moſt fitly with Chriſt, as beſt expreſ<g ref="char:EOLhyphen"/>ſing his diuine nature. Euen thus your Prieſts and Ieſuits deale with you: for when they haue told you ſomewhat of their Church, and that out of the Church there is no ſaluation, adding ſome trueths to ſome appearances, and framing your fancies after their owne
+<pb facs="tcp:13135:13"/>
+deuiſed paterne. If then they aſke you this queſtion; Whether will you rather forſake the Church of God, or the allegeance to your Prince? Some ignorant men, (but moe women) that know not theſe ſubtilties, but thinke all to bee true that theſe men tell them in corners, muſt needs anſwere, that ra<g ref="char:EOLhyphen"/>ther then they would forſake Chriſt his Church, they will renounce the o<g ref="char:EOLhyphen"/>bedience of any earthly Prince. And thus is your zeale and ignorance abu<g ref="char:EOLhyphen"/>ſed by craftie companions. But if you might vnderſtand, that you doe not forſake the Church, but are more con<g ref="char:EOLhyphen"/>firmed therein, by yeelding alleagi<g ref="char:EOLhyphen"/>ance to the King; then doubtleſſe you would not bee vnwilling to acknow<g ref="char:EOLhyphen"/>ledge your owne errours, and the craft of your ſeducers. And here as I haue bene deſirous to helpe you, ſo I hearti<g ref="char:EOLhyphen"/>ly entreat you to helpe your ſelues, by louing and ſeeking the trueth. Diſ<g ref="char:EOLhyphen"/>daine not to take helpe of any. My la<g ref="char:EOLhyphen"/>bour hath beene to bring endleſſe con<g ref="char:EOLhyphen"/>tentions to a ſhort iſſue, for your ſatiſ<g ref="char:EOLhyphen"/>faction:
+<pb facs="tcp:13135:14"/>
+onely I exhort you <hi>to trie the ſpirits, becauſe many falſe pro<g ref="char:EOLhyphen"/>phets are gone out into the world:</hi> trust neither vs nor them, vntill you haue tried: for we are all contentious men, though ſome contend for the trueth and ſome againſt it. Trie be<g ref="char:EOLhyphen"/>fore you truſt; and remember that <hi>S. Chryſoſtome</hi> gaue this exhortation to his hearers, <hi>That they ſhould be more carefull in trying the do<g ref="char:EOLhyphen"/>ctines which are deliuered to the<g ref="char:cmbAbbrStroke">̄</g>, then in telling of money, which is deliuered to them.</hi> Suffer no falſe and counterfeit ſtuffe to be thrust vp<g ref="char:EOLhyphen"/>on you at the motion of vaine men, who themſelues know not the trueth, and haue no care to liue according to the trueth. And iudge your ſelues who are your beſt friends, and who are they that in reaſon may beſt be thought to hold the trueth: they who call you to the knowledge of Gods word; or they that would holde you in ignorance? they that deſire you to examine their doctrines by the rule of Faith; or they
+<pb facs="tcp:13135:14"/>
+that bid you take their doctrines vpon their bare word? they that make the Scriptures iudge of themſelues, of their doctrines, of the <hi>Pope</hi> and all: or they that make the <hi>Pope</hi> Iudge of the Scriptures? they that call you to yeeld your allegeance to your Prince, or they that withdraw your hearts and allegeance from your ſoueraignes? they that were neuer found in rebel<g ref="char:EOLhyphen"/>lions, and conſpiracies, or they that ſtirre vp rebellions againſt Kings? they that hold the ſame rule of faith, which the Church hath alwaies held before them; or they that haue chan<g ref="char:EOLhyphen"/>ged the rule of Faith? Iudge whom you haue beſt reaſon to truſt, and trie the ſpirits. All ſpirits are tried by the rule of Faith, &amp; the rule muſt be one to all. Iudge you whether they be not afraid to come to this triall, who haue changed the rule whereby they ſhould be tried. Cardinall <hi>Bellarmine</hi> is for<g ref="char:EOLhyphen"/>ced<note place="margin">Libr. de ver. Dei. cap. 2.</note> to ſay thus much, <hi>That the rule of Faith muſt be both certaine and well knowen: for if it bee not well</hi>
+               <pb facs="tcp:13135:15"/>
+               <hi>knowen, it is no rule to vs: if it bee not certaine, it is no rule at all.</hi> And he addeth thus much further: <hi>No<g ref="char:EOLhyphen"/>thing is more certaine, nothing better knowen then the Scriptures contained in the Propheticall, and Apoſtolical writings.</hi> Take the con<g ref="char:EOLhyphen"/>feſſion of their Cardinall, and tell them that deceiue you, by ſuggeſting ano<g ref="char:EOLhyphen"/>ther rule, that there is but one rule: that whatſoeuer they bring beſides this, it is both vncertaine and vn<g ref="char:EOLhyphen"/>knowen to you<g ref="char:punc">▪</g> and therefore by their owne confeſſion it cannot bee a rule to you.</p>
+            <p>Conſider therefore on both ſides what is ſaid. Againſt them wee ſay, They haue no Church: We prooue it, becauſe they hold not Vnitie with the Catholike Church. I doe not wran<g ref="char:EOLhyphen"/>gle, by producing ſayings out of ſome of their writers, which they may an<g ref="char:EOLhyphen"/>ſwere, that they are not warranted by their Church: but I deale with their Church it ſelfe, and their Trent Coun<g ref="char:EOLhyphen"/>cill, and haue brought their long and
+<pb facs="tcp:13135:15"/>
+tedious diſcourſes to this ſhort iſſue; Whether they haue not changed the rule of Faith in their <hi>Trent Coun<g ref="char:EOLhyphen"/>cill,</hi> which before that time was euer held the rule of Faith in the Church of God. This is the thing which I earneſtly entreat you to ſearch out. By this you may vnderstand where the trueth is, where the Church is. Then much haue wee against them: But what bring they againſt vs? A<g ref="char:EOLhyphen"/>gainſt our Church they haue nothing to ſay: wee holde the rule of Faith, which the church of <hi>Rome</hi> euer held before the <hi>Trent Councill.</hi> We hold Ordination and Succeſſion euen from the Apoſtles: albeit our ſucceſſion be not from the Church of <hi>Rome,</hi> nor by that Church, yet we hold it ſure, and that not without the testimony of that Church. In theſe things the learned make no doubt: onely there bee ſome ignorant men, and corrupted with ma<g ref="char:EOLhyphen"/>lice, that haue deuiſed a ſtrange tale to ſlander our Ordination: ſuggesting among the ſimple people, that we haue
+<pb facs="tcp:13135:16"/>
+not a true Miniſtery: wherein, whe<g ref="char:EOLhyphen"/>ther ignorance, or malice haue excee<g ref="char:EOLhyphen"/>ded, iudge you. I will relate the tale as they haue deuiſed it. Some of our owne ſeduced, and ſeducing countrey<g ref="char:EOLhyphen"/>men haue written, that <hi>Sandes, Scorie, Horne, Grindall, Iewel,</hi> and others in the beginning of the reigne of Queene <hi>Elizabeth,</hi> met at the Nagges head in Cheape ſide, where they looked for the Biſhop of <hi>Landaffe,</hi> who ſhould come to ordeine them there; But <hi>Bonner</hi> then being pri<g ref="char:EOLhyphen"/>ſoner in the Towre, vnderſtanding this, ſent his Chaplaine to the Biſhop of <hi>Landaffe,</hi> denouncing and char<g ref="char:EOLhyphen"/>ging him vpon paine of excommunica<g ref="char:EOLhyphen"/>tion, not to ordeine thoſe that then and there expected him: The Biſhop of <hi>Landaffe</hi> being terrified with that denunciation, refuſed to come and or<g ref="char:EOLhyphen"/>deine them; Whereupon they con<g ref="char:EOLhyphen"/>cluded that his Ordination was need<g ref="char:EOLhyphen"/>leſſe, and ſo <hi>Scorie</hi> beeing but a Monke ordained the reſt, and ſome of the other, being ordeined by <hi>Scorie,</hi>
+               <pb facs="tcp:13135:16"/>
+laid handes vpon <hi>Scorie.</hi> This is the tale: a tale ſo odious would haue bene made ſomewhat probable. All that is brought to confirme it, is that <hi>M<hi rend="sup">r</hi>. Neall</hi> the Hebrewe Reader at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> ſhould confeſſe this to his Confeſ<g ref="char:EOLhyphen"/>ſours, who tolde it to theſe men, and they tell it to you, and you beleeue it. By this you may perceiue how ſhame<g ref="char:EOLhyphen"/>leſſe they are that ſeduce you with ſuch abſurd tales: But all their hope is in your facilitie, and credulitie: for an<g ref="char:EOLhyphen"/>ſwere to this tale, and all other of this kinde againſt our Ordination, <hi>M<hi rend="sup">•</hi> FRANCIS MASON</hi> hath dealt learnedly and faithfully, declaring the Conſecration of all our Biſhoppes that haue beene in the late Queenes time, and ſome yeeres before, out of the pub<g ref="char:EOLhyphen"/>like Records which are kept, that all men may ſee them that will. I will brieflly relate the ſumme of his an<g ref="char:EOLhyphen"/>ſwere, that the ſhame may returne vpon thoſe ſhameleſſe deuiſers of ſuch ſtrange vntrueths. <hi>Iohn Scorie</hi> was conſecrated Biſhop of <hi>Hereford, anno</hi>
+               <pb facs="tcp:13135:17"/>
+1551. in King <hi>Edwards</hi> time, <hi>Au<g ref="char:EOLhyphen"/>guſt 30.</hi> by <hi>Thomas Canterburie, Nicholas Lond. Iohn Bedford,</hi> re<g ref="char:EOLhyphen"/>corded in the Regiſter of Archbiſhop <hi>Cranmer,</hi> fol. 334. The deuiſer of this ſtrange vntrueth, was but a ſillie ſhifter, to ſet the Conſecration of this man with them that were conſecrated in the time of Queene <hi>ELIZA<g ref="char:EOLhyphen"/>BETH:</hi> hee hath made the lie impro<g ref="char:EOLhyphen"/>bable, and impoſſible. <hi>Edmund Grin<g ref="char:EOLhyphen"/>dall</hi> was conſecrated Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don, anno 1559. Decemb. 21.</hi> by <hi>Matth. Canterburie, William Ci<g ref="char:EOLhyphen"/>ceſter, Iohn Hereford, Iohn Bed<g ref="char:EOLhyphen"/>ford,</hi> out of the Register kept in Archbiſhop <hi>Parkers</hi> time, <hi>cap. 1. fol. 18. Edwine Sandes</hi> was conſecra<g ref="char:EOLhyphen"/>ted <hi>anno 1559. December 21.</hi> by <hi>Matth. Canter. William Ciceſter, Iohn Hereford, Iohn Bedford,</hi> out of the Regiſter kept in Archbiſhop <hi>Parkers</hi> time, <hi>fol. 39.</hi> Theſe were conſecrated in the Chappell at <hi>Lam<g ref="char:EOLhyphen"/>beth,</hi> the Sabboth day before noone, after morning prayer with impoſition
+<pb facs="tcp:13135:17"/>
+of handes, and with ſuch forme of wordes and prayers as are vſed in the Church; where there was a Ser<g ref="char:EOLhyphen"/>mon preached by Maſter <hi>Nowell,</hi> then the Archbiſhop his Chaplaine, vpon this text: <hi>Take heed to your<note place="margin">Act. 20. 28.</note> ſelues, and to all the flocke where<g ref="char:EOLhyphen"/>of the holy Ghoſt hath made you ouerſeers:</hi> And a Communion re<g ref="char:EOLhyphen"/>uerently adminiſtred by the Arch<g ref="char:EOLhyphen"/>biſhop. <hi>Iohn Iewel</hi> was conſecrated Biſhop of <hi>Salisbury, Anno 1559. Ianuary 21.</hi> by <hi>Matthew Canterb. Edmond London, Rich. Elie, Iohn Bedford,</hi> taken out of the Regiſter in Archb. <hi>Parkers</hi> time, <hi>fol. 46.</hi> in the Chappell at <hi>Lambeth,</hi> vpon the Sabboth in the forenoone, with Com<g ref="char:EOLhyphen"/>mon prayers, and Communion, and a Sermon preached by <hi>M<hi rend="sup">r</hi>. Andrew Peirſon</hi> the Archbiſh. his Chaplaine,<note place="margin">Matth. 5. 16.</note> vpon this Text: <hi>Let your light ſo ſhine before men, that they may ſee your good workes, and glorifie your Father which is in heauen. Robert Horne</hi> was conſecrated,
+<pb facs="tcp:13135:18"/>
+               <hi>anno 1560. February 16.</hi> by <hi>Mat<g ref="char:EOLhyphen"/>thew Canterbury, Thomas Me<g ref="char:EOLhyphen"/>nen. Edmond London, Thomas Couentrie</hi> and <hi>Lichfield: ex Re<g ref="char:EOLhyphen"/>giſtro Parker. chap. 1. fol. 88.</hi> in the Chappell at <hi>Lambeth,</hi> the Sabboth day the forenoone: the man<g ref="char:EOLhyphen"/>ner whereof in all reſpects was as the former.</p>
+            <p>By this you may vnderſtand what manner of men they are who ſeduce you: Is there any thing ſo ſhameleſſe, which theſe men doe not venture vp<g ref="char:EOLhyphen"/>on who dare venture to tell you ſuch a tale, that by publike euidences may ſo eaſily ſo vnanſwereably be conuinced? Theſe are your guides and leaders: is it likely that theſe men ſhould leade you into the way of trueth? Once free your ſelues from this pestiferous ge<g ref="char:EOLhyphen"/>neration, who deuiſe ſtill how to holde you in the bondage of their ſupersti<g ref="char:EOLhyphen"/>tion, and conſider what account they make of you, vpon whom they vent ſuch ſtuffe; altogether preſuming vp<g ref="char:EOLhyphen"/>on your ſimplicitie, hoping that you
+<pb facs="tcp:13135:18"/>
+will take all without diſcuſſing what<g ref="char:EOLhyphen"/>ſoeuer they deliuer. Men of common reaſon, will neuer put confidence in ſuch men as are conuinced once for liars. If this bee true which they haue ſo confidently written, and by which they haue ſo notoriouſly abu<g ref="char:EOLhyphen"/>ſed you, in ſlaundering of the Or<g ref="char:EOLhyphen"/>dination of our worthie and reue<g ref="char:EOLhyphen"/>rend Biſhops, then might you haue cauſe to be offended with our Church. But if this vpon triall bee found a manifest and abſurd lye, then what cauſe haue you to trust them in any thing, whoſe whole ſtudie is to abuſe your ſimplicitie and credulitie; who hauing forſaken the trueth, la<g ref="char:EOLhyphen"/>bour to drawe after them ſo many as they can into the ſocietie of their Apostaſie, respecting neither trueth nor conſcience, ſo they deceiue by any meanes. And thus praying to him that keepeth the Keyes of Dauid, and openeth and no man ſhutteth, and ſhutteth, and no man openeth,
+<pb facs="tcp:13135:19"/>
+that hee of his infinite mercie will open your eyes to ſee, your hearts to vnderstand his word and trueth, and therein your owne Saluation: I rest</p>
+            <closer>
+               <signed>Yours in the ſeruice of your Faith. GEORGE CARLETON:</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:13135:19"/>
+            <head>SHORT DIREC<g ref="char:EOLhyphen"/>TIONS TO KNOVV the true CHVRCH.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Church is ei<g ref="char:EOLhyphen"/>ther the Catholike Church, or particu<g ref="char:EOLhyphen"/>lar Churches. The Catholike Church is defined in the Scripture; <hi>The body of</hi>
+               <note place="margin">Eph. 1. 23.</note> 
+               <hi>Ieſus Chriſt, and the fulneſſe of him that filleth all in all.</hi> The A<g ref="char:EOLhyphen"/>poſtle deſcribing this Church, ſayth, <hi>By one Spirit we are bap<g ref="char:EOLhyphen"/>tized</hi>
+               <note place="margin">1. Cor. 12, 13.</note> 
+               <hi>into one body.</hi> And againe, <hi>You are the body of Chriſt, and</hi>
+               <note place="margin">Verſ. 17.</note> 
+               <hi>members in particular.</hi> And a<g ref="char:EOLhyphen"/>gaine, <hi>Chriſt is the head of the</hi>
+               <note place="margin">Eph. 5. 25.</note> 
+               <hi>Church, and hee is the Sauiour of the body: He is before all things,</hi>
+               <note place="margin">Col. 1. 18.</note> 
+               <hi>and by him all things conſiſt, and</hi>
+               <pb n="2" facs="tcp:13135:20"/>
+               <hi>hee is the head of the body, the Church.</hi> So that in the Scrip<g ref="char:EOLhyphen"/>tures of the New Teſtament we finde no definition of the Church, but either in theſe wordes, <hi>That it is the body of Chriſt;</hi> or in words that ſigni<g ref="char:EOLhyphen"/>fie the ſame thing: We finde no other Head of the Church but Chriſt himſelfe.</p>
+            <p>Particular Churches, are viſible Aſſemblies who pro<g ref="char:EOLhyphen"/>feſſe the true Faith, and holde the ordinances of Chriſt, and are gouerned by diuers viſible heads or gouernours, as Saint <hi>Gregory</hi> the Pope ſayth: <hi>Peter</hi>
+               <note place="margin">Lib. 4. E<g ref="char:EOLhyphen"/>piſt. 38. ind. 13.</note> the Apoſtle of Chriſt which was the firſt member of the Church, <hi>Paul, Andrew, Iohn,</hi> what other are theſe, but heads of particular Aſſem<g ref="char:EOLhyphen"/>blies?
+<pb n="3" facs="tcp:13135:20"/>
+               <hi>Singularium plebium ca<g ref="char:EOLhyphen"/>pita:</hi> ſo ſayth <hi>Gregory.</hi> And a<g ref="char:EOLhyphen"/>gaine, <hi>The Saints before the law, the Saints vnder the Law, and the Saints vnder grace, all theſe making vp the body of Chriſt, or members of the Church.</hi> So <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> vnderſtood the Church, that Saint <hi>Peter</hi> was a mem<g ref="char:EOLhyphen"/>ber onely, but not a head of the vniuerſall or Catholicke Church: But of a particular Church ſayth S. <hi>Gregory, Pe<g ref="char:EOLhyphen"/>ter</hi> was a head: Yet no other<g ref="char:EOLhyphen"/>wiſe, then as S. <hi>Iohn</hi> was the head of another particular Church, S. <hi>Paul</hi> of another, S. <hi>Andrew</hi> of another: And ſo other heads or gouernours of other particular Churches; becauſe no Apoſtle could guide all particulars, or the
+<pb n="4" facs="tcp:13135:21"/>
+whole. This was the ancient doctrine and knowledge of the Church.</p>
+            <p>Theſe particular Churches though in reſpect of the pla<g ref="char:EOLhyphen"/>ces wherein they were gathe<g ref="char:EOLhyphen"/>red they be many, and in that reſpect called in the plurall number <hi>Churches</hi> in Scripture, <hi>Rom. 16. 4. and 1. Cor. 7. 17. and 2. Cor. 8. 18. and Apoc.</hi> 11. 4. and in many other places: yet in reſpect of the faith which they profeſſe, they are but one: for the Church is but one, not two, not many. And euery particular Church that would prooue it ſelfe a true Church of Chriſt, muſt proue that, by the vnitie which it holdeth with the Catholicke Church, which is but one:
+<pb n="5" facs="tcp:13135:21"/>
+For euery particular Church holding vnitie with the Ca<g ref="char:EOLhyphen"/>tholike Church, by reaſon of that vnitie is one with it: And euery particular aſſembly that holdeth not this vnitie with the Catholicke Church, is no true Church of Chriſt, but an aſſembly of Heretickes.</p>
+            <p>But now the queſtion be<g ref="char:EOLhyphen"/>tweene the Papiſts and the re<g ref="char:EOLhyphen"/>formed Churches will bee, whether of them two do hold this Vnitie with the Catho<g ref="char:EOLhyphen"/>licke Church: For if we proue the reformed Churches keep this Vnitie, wee prooue them aſſuredly to be the true Chur<g ref="char:EOLhyphen"/>ches: and if wee prooue that the Papiſts haue broken off this vnitie with the Catholike Church, then are they proo<g ref="char:EOLhyphen"/>ued
+<pb n="6" facs="tcp:13135:22"/>
+to be no true Church, but an aſſembly of heretickes that haue forſaken the Church. To prooue this, wee muſt de<g ref="char:EOLhyphen"/>clare what this Vnitie is, and wherein it conſiſteth: which thing being declared, will eui<g ref="char:EOLhyphen"/>dently declare where the true Church is.</p>
+            <p>The Vnitie of the Church is fourefolde: For though o<g ref="char:EOLhyphen"/>thers may make moe parts, yet all may be compriſed in theſe foure. For the Church is one, firſt, by the Vnitie of the Body; ſecondly, by the Vnitie of the Head; thirdly, by the Vnitie of the Spirit; fourthly, by the Vnitie of Faith. All theſe are neceſſa<g ref="char:EOLhyphen"/>rily required to prooue a Church to holde Vnitie with
+<pb n="7" facs="tcp:13135:22"/>
+the Catholicke Church<g ref="char:punc">▪</g> And albeit where one of them is found, they are all found, yet becauſe the Scriptures and Fathers ſpeake diſtinctly of them, wee will diſtinctly de<g ref="char:EOLhyphen"/>clare them.</p>
+            <p>The vnitie of the Body is an vnitie, whereby all the members of the Church are knit together with the Head in one body: For as the body is one and hath many mem<g ref="char:EOLhyphen"/>bers, and all the members of<note place="margin">1. Cor. 12.</note> that one body being many, make but one body; euen ſo is Chriſt, ſayth the Apoſtle: This may be called myſticall Chriſt, or the myſticall body of Chriſt, that is, his Church: For this is the true Church, the proper Church, the Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="8" facs="tcp:13135:23"/>
+doeth not acknowledge any other Catholike Church ſauing this, which is the body of Chriſt; In which body all beleeuers are knit to Chriſt, as the members of one body with the head: And in this body euery member recei<g ref="char:EOLhyphen"/>ueth<note place="margin">Eph. 4. 16</note> grace from the Head, and the whole body, accor<g ref="char:EOLhyphen"/>ding to the meaſure of euery member receiueth increaſe of the body, to the edifying of it ſelfe in loue. Thus is euery member of the body, that is, euery member of the Church, ioyned vnto Chriſt by faith and loue: And herein ſtan<g ref="char:EOLhyphen"/>deth the vnitie of this Body.</p>
+            <p>From this Vnitie the Papiſts are fallen away: for they teach that the members of
+<pb n="9" facs="tcp:13135:23"/>
+their Church, as they call it, neede not to haue any inward grace, but it ſufficeth if they make onely an externall pro<g ref="char:EOLhyphen"/>feſsion of faith, and haue the co<g ref="char:cmbAbbrStroke">̄</g>munion of the Sacraments, which by very ſenſe is percei<g ref="char:EOLhyphen"/>ued. So ſaith <hi>Card. Bellarmine</hi>
+               <note place="margin">Lib. 3. de Eccleſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, &amp; cap. 2.</note> 
+               <hi>lib. 3. cap. 2. de Eccleſia.</hi> It fol<g ref="char:EOLhyphen"/>loweth that the Popiſh <hi>Church</hi> hath not vnitie with the Ca<g ref="char:EOLhyphen"/>tholike Church, which is the body of Chriſt: For there is but one Church, that is, the body of Chriſt, and the mem<g ref="char:EOLhyphen"/>bers of this Church are by grace knit to Chriſt their head, as we haue prooued out of the Apoſtle. Therfore that Church whoſe members are not knit to Chriſt by grace to the edifying of themſelues in
+<pb n="10" facs="tcp:13135:24"/>
+loue, is no true Church of Chriſt. It will not aduantage them to ſay, that they haue among them ſome good men, who they doubt not are mem<g ref="char:EOLhyphen"/>bers of Chriſt, though their Church hath communion al<g ref="char:EOLhyphen"/>ſo with ſuch as haue no in<g ref="char:EOLhyphen"/>ward grace and vertue. For the Church of Chriſt hath no co<g ref="char:cmbAbbrStroke">̄</g>munion with wicked men, who liue without inward grace: becauſe the commu<g ref="char:EOLhyphen"/>nion which the Church hath is called in our Creede, <hi>Acom<g ref="char:EOLhyphen"/>munion of Saints.</hi> The Saints are men ſanctified by the Spi<g ref="char:EOLhyphen"/>rit of God, waſhed by the blood of Chriſt from their ſins. Theſe Saints haue com<g ref="char:EOLhyphen"/>munio<g ref="char:cmbAbbrStroke">̄</g> both with Chriſt their Head by faith, and with, and
+<pb n="11" facs="tcp:13135:24"/>
+among themſelues by loue and charitie. This communi<g ref="char:EOLhyphen"/>on is not betweene good and euill, between Saints and wic<g ref="char:EOLhyphen"/>ked men, but only among the Saints who are cleanſed from all ſinne by the blood of Chriſt: for ſo S. <hi>Iohn</hi> teach<g ref="char:EOLhyphen"/>eth, ſpeaking of this commu<g ref="char:EOLhyphen"/>nion of Saints; <hi>If wee walke in</hi>
+               <note place="margin">1. Ioh. 1. 7</note> 
+               <hi>the light, as he is in the light, wee haue communion one with ano<g ref="char:EOLhyphen"/>ther, and the blood of Ieſus Chriſt his ſonne cleanſeth vs from all ſinne.</hi> Then this communion is among them that are clean<g ref="char:EOLhyphen"/>ſed by the blood of Chriſt from all ſinne: But the mem<g ref="char:EOLhyphen"/>bers of the Church of <hi>Rome,</hi> which by their owne confeſ<g ref="char:EOLhyphen"/>ſion, haue no inward grace, are not cleanſed from all their
+<pb n="12" facs="tcp:13135:25"/>
+ſinne by his blood: And ther<g ref="char:EOLhyphen"/>fore ſuch men cannot ſay that they haue this communion, or any part thereof. For vnto ſuch S. <hi>Iohn</hi> ſaith in the words immediatly going before, <hi>If we ſay that wee haue communion</hi>
+               <note place="margin">1 Ioh. 1. 6</note> 
+               <hi>with him, and walke in darke<g ref="char:EOLhyphen"/>neſſe, we lie, and do not the truth.</hi> Now if theſe be found to be lyars by the teſtimonie of S. <hi>Iohn,</hi> who ſay they haue com<g ref="char:EOLhyphen"/>munion with Chriſt, when they walke in darkneſſe, when they haue no inward vertue (for ſuch muſt needs walke in darkeneſſe, who haue no in<g ref="char:EOLhyphen"/>ward light &amp; direction) then out of doubt the Popiſh Church as now it ſtandeth, can haue no communion with Chriſt, and conſequent<g ref="char:EOLhyphen"/>ly
+<pb n="13" facs="tcp:13135:25"/>
+can be no true Church of Chriſt. The reaſon is plaine from theſe principles, which are their confeſsion on the one ſide, and the expreſſe te<g ref="char:EOLhyphen"/>ſtimonie of Scriptures on the other ſide.</p>
+            <p>The ſecond Vnitie of the Church, is the vnitie of the head. Chriſt is the head of his Church: And the Church of Chriſt is knowen by this v<g ref="char:EOLhyphen"/>nitie; for that is the true Church that hath alwayes kept this Head Ieſus Chriſt: But the Romiſh Church hath changed this head, ſeeing they haue the Pope the head of the vniuerſall Church.</p>
+            <p>Their common anſwere is, That the Pope is Chriſt his Vicar, and the miniſteriall
+<pb n="14" facs="tcp:13135:26"/>
+head. But this anſwere is but a cloake to couer ignorance: For the Church is but one, and herein wee haue the con<g ref="char:EOLunhyphen"/>feſsion of the Papiſts: For <hi>Cardinall Bellarmine</hi> ſayth, the<note place="margin">Libr. 3. cap. 2. de Eccleſ.</note> Church is onely one, and not two; and of this one Church he maketh the Pope to be the head, as being Chriſts Vicar.</p>
+            <p>Now to bolt out the truth, we reaſon thus: The Church is one, this one onely Church is Chriſt his bodie, Chriſt his Spouſe: therefore if the Pope bee Chriſt his Vicar, and the miniſteriall head, he muſt by this delegacie gouerne the ſame Church vnder Chriſt, which is his body, his Spouſe. For if Chriſt gouerne one Church, and the Pope ano<g ref="char:EOLhyphen"/>ther,
+<pb n="15" facs="tcp:13135:26"/>
+then the Pope cannot be Chriſt his Vicar, becauſe hee gouerneth not the ſame vn<g ref="char:EOLhyphen"/>der Chriſt: for hee muſt bee Vicar to him whoſe Church hee doeth gouerne. But the Pope doeth not gouerne the ſame Church vnder Chriſt, but another Aſſembly. For Chriſt is the head of his owne body, of his owne members, that is, of Saints, of true belee<g ref="char:EOLhyphen"/>uers, of ſuch as receiue in<g ref="char:EOLhyphen"/>ward grace &amp; vertue from the head, and by that grace grow vp to the edification of them<g ref="char:EOLhyphen"/>ſelues in loue, as the Apoſtle teacheth. But the Pope by the common confeſsion of Papiſtes, is head of ſuch a Church, whoſe me<g ref="char:cmbAbbrStroke">̄</g>bers haue no inward grace or vertue
+<pb n="16" facs="tcp:13135:27"/>
+in them, but onely the exter<g ref="char:EOLhyphen"/>nall profeſsion of the Romiſh faith, acknowledging that the Pope is their head and go<g ref="char:EOLhyphen"/>uernour. For without this ac<g ref="char:EOLhyphen"/>knowledgment that the Pope is the head of the Church, and Chriſt his Vicar on earth, no profeſsion of faith can make a man a member of that Church; whatſoeuer faith he profeſſe, he is not receiued as a member in that Church, vn<g ref="char:EOLhyphen"/>leſſe hee profeſſe this faith, of the Papall authoritie: And if he profeſſe this, though there be in him no inward grace, no vertue, yet he is taken to be a true member of that Church. By this it appeareth, that the Pope doeth not gouerne the ſame Church vnder Chriſt,
+<pb n="17" facs="tcp:13135:27"/>
+whereof Chriſt is the head: For Chriſt is not the head of wicked &amp; profane liuers that are without inward grace, without vertue; the deuill is their head. Saint <hi>Auſtin</hi> ſayth<note place="margin">Lib. 3. cap. 37. de do<g ref="char:EOLhyphen"/>ctrina Chriſti<g ref="char:EOLhyphen"/>ana.</note> truely, <hi>Diabolus eſt caput impio<g ref="char:EOLhyphen"/>rum, qui ſunt eius quodammodo corpus, ituri cumillo in ſupplicio aeterni ignis: ſicut Christus eſt ca<g ref="char:EOLhyphen"/>put Eccleſiae, quae eſt corpus eius futurum cum illo in regno &amp; glo<g ref="char:EOLhyphen"/>ria ſempiterna:</hi> that is, The de<g ref="char:EOLhyphen"/>uil is the head of wicked men, who are after a ſort his body, and ſhall goe with him into his kingdom, and euerlaſting fire, euen as Chriſt is the head of the Church, which is his body, and ſhall be with him in his kingdom, and euerlaſting glory<g ref="char:punc">▪</g> Whereupon it follow<g ref="char:EOLhyphen"/>eth,
+<pb n="18" facs="tcp:13135:28"/>
+that if the Pope bee the miniſteriall head of a Church, that Church conſiſting of wicked men that liue without inward grace or vertue, as themſelues confeſſe, and the deuill being the head of all ſuch, as S. <hi>Auguſtine</hi> proueth; It followeth I ſay, that the Pope is by this found to be the Vicar of the deuill, and the miniſteriall head of the deuill, ruling an aſſembly whereof the deuil is the head, and not Chriſt. This conclu<g ref="char:EOLhyphen"/>ſion, though it ſeeme to dero<g ref="char:EOLunhyphen"/>gate much from the aſſumed title of his Holineſſe, yet con<g ref="char:EOLhyphen"/>ſidering the former premiſſes, no man of learning and vn<g ref="char:EOLhyphen"/>derſtanding, can iuſtly denie. Then the Church of Rome is
+<pb n="19" facs="tcp:13135:28"/>
+fallen away from this com<g ref="char:EOLhyphen"/>munion with the Head Chriſt Ieſus, becauſe it is certaine, that they who haue no in<g ref="char:EOLhyphen"/>ward grace and vertue, haue no co<g ref="char:cmbAbbrStroke">̄</g>munion with this head.</p>
+            <p>The third vnitie of the Church, is the vnitie of the Spirit: The whole Church is gouerned and directed by the ſame Spirit: And therefore the Apoſtle ſpeaking of the giftes which God giueth for the edificatio<g ref="char:cmbAbbrStroke">̄</g> of the Church, ſayth; <hi>All theſe worketh that</hi>
+               <note place="margin">1. Cor. 12. 11.</note> 
+               <hi>one and the ſelfe-ſame Spirit.</hi> And of the members of the Church that are gouerned by the ſelfeſame Spirit, he ſayth a litle after the former words, <hi>For by one Spirit we are all bapti<g ref="char:EOLhyphen"/>zed</hi>
+               <note place="margin">1. Cor. 12. 13.</note> 
+               <hi>into one body:</hi> In which
+<pb n="20" facs="tcp:13135:29"/>
+words it is euident, that to be a member of the Church, the Apoſtle doeth not thinke it ſufficient to receiue the out<g ref="char:EOLhyphen"/>ward ſigne of the Sacrament of Baptiſme, without inward grace, as theſe men teach: but hee holdeth the inward ſpiri<g ref="char:EOLhyphen"/>tuall grace to be needfull, and therefore declaring that ſpiri<g ref="char:EOLhyphen"/>tuall grace, he ſayth, <hi>Wee are baptized by one Spirit into one body:</hi> For ſeeing that by the grace of Baptiſme men are re<g ref="char:EOLhyphen"/>generate, and made the ſons of God; therefore this vnitie which the Church hath by the Sacrament of Baptiſme, is defined by the Apoſtle, not to be externall perceiued by ſenſe, as theſe teach, but to be internall and ſpirituall. For
+<pb n="21" facs="tcp:13135:29"/>
+by one Spirit we are baptiſed into one body; that is, by one Spirit wee are regenerate, and are made members of this ho<g ref="char:EOLhyphen"/>ly body the Church: And therefore the Apoſtle ioyneth theſe three things together: <hi>One Lord, one faith, one Baptiſme;</hi>
+               <note place="margin">Ephe. 4. 3.</note> as if he ſhould ſay, One head, one rule, one body of belee<g ref="char:EOLhyphen"/>uers regenerated by baptiſme. We are forced from euidence of the trueth, to vnderſtand Baptiſme, from the words of the Apoſtle, not of <hi>the exter<g ref="char:EOLhyphen"/>nall perception,</hi> but of <hi>the in<g ref="char:EOLhyphen"/>ward grace</hi> of the Sacrament: becauſe what he meaneth by <hi>one Baptiſme,</hi> himſelfe decla<g ref="char:EOLhyphen"/>reth when he ſayth, <hi>By one Spi<g ref="char:EOLhyphen"/>rit wee are all baptiſed into one body.</hi> The ſumme is, this vni<g ref="char:EOLhyphen"/>tie
+<pb n="22" facs="tcp:13135:30"/>
+which the Church hath from the Spirit, is a ſpirituall grace, without which inward ſpirituall grace, no man can haue the communion of the holy Ghoſt, or be a member of Chriſt his Church in the v<g ref="char:EOLhyphen"/>nitie of one Spirit; But with<g ref="char:EOLhyphen"/>out this inward ſpiritual grace a man may bee a member of the Church of Rome; there<g ref="char:EOLhyphen"/>fore the Church of Rome is not the Church of Chriſt, for<g ref="char:EOLhyphen"/>aſmuch as that Church is fal<g ref="char:EOLhyphen"/>len away from the vnitie of the Spirit, which knitteth all the members of the Church together.</p>
+            <p>The fourth vnitie whereby the Church is knowen to be one and the ſame alwayes, is the vnitie of Faith: For the
+<pb n="23" facs="tcp:13135:30"/>
+true Church from the Apo<g ref="char:EOLhyphen"/>ſtles hauing receiued the true faith, hath helde the ſame vn<g ref="char:EOLhyphen"/>to this day, and muſt holde it without change vnto the end of the world. And therefore the ancient Fathers were wont to prooue the Church to be alwayes the ſame, in ma<g ref="char:EOLhyphen"/>ny generations and ſucceſsi<g ref="char:EOLhyphen"/>ons, becauſe the ſame faith was alwayes helde in the Church without change: whereupon S. <hi>Hierome</hi> com<g ref="char:EOLhyphen"/>menting vpon the 23. Pſalme vpon theſe words, <hi>Haec eſt ge<g ref="char:EOLhyphen"/>neratio quaerentium dominum,</hi> ſayth, <hi>Eccleſia ex pluribus per<g ref="char:EOLhyphen"/>ſonis congregatur, &amp; tamen vna dicitur propter vnitatem fidei:</hi> that is, The Church is gathe<g ref="char:EOLhyphen"/>red together of diuers per<g ref="char:EOLhyphen"/>ſons,
+<pb n="24" facs="tcp:13135:31"/>
+and yet it is ſaid to be one for the vnitie of faith. Then they who hold not this vnitie, can neuer prooue that they haue the vnitie of the Church, which Chriſt redee<g ref="char:EOLhyphen"/>med with his blood, which the Apoſtles taught and plan<g ref="char:EOLhyphen"/>ted.</p>
+            <p>The faith of the Church is ſaid to bee one, becauſe the rule of faith is one, and the ſame from the beginning of the Church to the ende: the rule of faith is the doctrine of faith, contained in the holy Scriptures. This is the rule that ruleth the Church: for the Church muſt teach the true faith; and that is the true faith which the Church tea<g ref="char:EOLhyphen"/>cheth out of the holy Scrip<g ref="char:EOLhyphen"/>tures:
+<pb n="25" facs="tcp:13135:31"/>
+ſo that wee muſt not take whatſoeuer the Church teacheth without any limita<g ref="char:EOLhyphen"/>tion or rule. For the Church hath a rule to teach by: this rule is the rule of faith taken out of the holy Scriptures: ſo long as any particular Church teacheth according to this rule, ſo long is that Church to be heard: but if a Church once fall away from this rule of faith, then it ceaſeth to be a true Church of God, as ma<g ref="char:EOLhyphen"/>ny particular Churches haue fallen away, becauſe they haue forſaken this rule of faith.</p>
+            <p>Firſt therefore, I will proue out of the Scriptures and an<g ref="char:EOLhyphen"/>cient fathers, that the true Church is knowen by the rule
+<pb n="26" facs="tcp:13135:32"/>
+of faith And then I wil demo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ſtrate that this rule of faith is no other thing then the true doctrines of faith, conteined in the Scripture. By which meanes it wil appeare what is the true Church, and where it is to bee found. The Apoſtle proouing that the <hi>Epheſians</hi> were a true Church of God, ſaith; <hi>You are no more ſtrangers,</hi>
+               <note place="margin">Eph. 2. 20.</note> 
+               <hi>but felow citiſens with the Saints, and of the houſhold of God, &amp; are built vpon the foundation of the Apoſtles and Prophets, Chriſt Ie<g ref="char:EOLhyphen"/>ſus himſelfe being the chiefe cor<g ref="char:EOLhyphen"/>ner Stone:</hi> In which wordes hee declareth what the true Church is; an aſſembly of Saints, the houſhold of God, &amp; vpon what foundation it is built: for the doctrine of the
+<pb n="27" facs="tcp:13135:32"/>
+faith vpon which the Church is built, is called a foundation: And becauſe this doctrine is co<g ref="char:cmbAbbrStroke">̄</g>teined in the holy ſcriptures written by the Prophets, and Apoſtles; therefore it is called the fou<g ref="char:cmbAbbrStroke">̄</g>dation of the prophets &amp; Apoſtles. Then the church is built vpon this foundation, that is, vpon the faith co<g ref="char:cmbAbbrStroke">̄</g>teined in the Scriptures, written by the prophets &amp; Apoſtles. And if any Church change once this foundation, that ceaſeth to be a true Church of Chriſt.</p>
+            <p>Of diuers teſtimonies of fa<g ref="char:EOLhyphen"/>thers, I will cite a fewe: <hi>Cle<g ref="char:EOLhyphen"/>mens Alexandrinus</hi> ſaith; <hi>Wee</hi>
+               <note place="margin">Libr. 7. stroma<g ref="char:EOLhyphen"/>tum.</note> 
+               <hi>ſay that the ancient and Catholike Church is knowen to be in the v<g ref="char:EOLhyphen"/>nitie of one Faith, which faith is contained in the proper Teſta<g ref="char:EOLhyphen"/>ments,</hi>
+               <pb n="28" facs="tcp:13135:33"/>
+               <hi>or rather in one Teſta<g ref="char:EOLhyphen"/>ment, which in diuers times is</hi>
+               <note place="margin">Contra omnes he<g ref="char:EOLhyphen"/>reſes.</note> 
+               <hi>one. Athanaſius</hi> ſaith; <hi>The Or<g ref="char:EOLhyphen"/>thodoxe Church truely reading, and exactly examining the holy Scriptures, doeth edifie it ſelfe vpon the Rocke.</hi> The Authour<note place="margin">Hom. 49.</note> of the imperfect worke vpon <hi>Matt.</hi> ſaith; <hi>If any would know what is the true Church, how ſhall hee know this, but onely by Scrip<g ref="char:EOLhyphen"/>tures?</hi> S. <hi>Austin</hi> ſaith; <hi>In the</hi>
+               <note place="margin">Epiſt. 60.</note> 
+               <hi>Scriptures we learne Chriſt, in the Scriptures we learne to know the Church of Christ. Vincentius Licinenſis</hi> ſaith; <hi>The Church of</hi>
+               <note place="margin">Lib. contr. hereſ. cap. 32.</note> 
+               <hi>Chriſt is a carefull keeper of the doctrines committed to her, ſhee changeth nothing of them at any time, ſhe diminiſheth nothing, ſhe addeth nothing, ſhee cutteth off nothing neceſſary, ſhee putteth to</hi>
+               <pb n="29" facs="tcp:13135:33"/>
+               <hi>nothing ſuperfluous, ſhee looſeth not her owne, ſhee vſurpeth no ſtrange doctrine. Bede</hi> ſaith; <hi>The</hi>
+               <note place="margin">
+                  <hi>In Iohn lib.</hi> 1. c. 12</note> 
+               <hi>foundation of the Church is the ſoundneſse of the Faith of the Apostles, and Prophets.</hi> Accor<g ref="char:EOLhyphen"/>ding to theſe ſpeake the reſt, becauſe wee would not ſtay too long vpon teſtimonies. Whereby it appeareth that this hath beene the common doctrine of the Church, that the true Church is knowen by holding the rule of faith, which true faith, the Prophets and Apoſtles haue written, and declared to the Church; So that heerein ſtandeth the miniſterie of the Church, in preſeruing this faith for euer ſound, which by the holy men inſpired of God to write
+<pb n="30" facs="tcp:13135:34"/>
+the Scriptures, is left to the Church: Or as S. <hi>Iude</hi> faith,<note place="margin">Iude 3.</note> 
+               <hi>To contend earneſtly for the faith which was once deliuered to the Saints.</hi>
+            </p>
+            <p>Now that this rule of faith is no other thing, ſauing only the true doctrine of the Scrip<g ref="char:EOLhyphen"/>ture; it will appeare, if wee briefly conſider the teſtimo<g ref="char:EOLhyphen"/>nies of the Scriptures, and do<g ref="char:EOLhyphen"/>ctrines of ancient writers in this poynt. I will take a few of both. S. <hi>Paul</hi> ſaith; <hi>What<g ref="char:EOLhyphen"/>ſoeuer</hi>
+               <note place="margin">Rom. 15. 4.</note> 
+               <hi>things are written before, are written for our doctrine, that by patience and conſolation of the Scripture, wee might haue hope:</hi> Whereby the Apoſtle teach<g ref="char:EOLhyphen"/>eth plainely, that the Scrip<g ref="char:EOLhyphen"/>tures are the rule of our do<g ref="char:EOLhyphen"/>ctrine; ſo that nothing may
+<pb n="31" facs="tcp:13135:34"/>
+bee taught, nothing may bee learned concerning our faith, but according to this rule de<g ref="char:EOLhyphen"/>liuered in the Scriptures. And againe; <hi>All Scripture is giuen</hi>
+               <note place="margin">2. Tim. 3. 16.</note> 
+               <hi>by inſpiration of God, and is profi<g ref="char:EOLhyphen"/>table for doctrine, for reproofe, for correction, for instruction in righteouſneſſe, that the man of God may bee perfect, throughly furniſhed vnto all good workes.</hi> The Apoſtle declareth how the Scripture is profitable and perfect. The Papiſts confeſſe that the Scripture is profita<g ref="char:EOLhyphen"/>ble, but not perfect: They denie the perfection, the A<g ref="char:EOLhyphen"/>poſtle prooueth both. It is profitable to perfect the man of God: that profitableneſſe that is able to make men per<g ref="char:EOLhyphen"/>fect, is both profitableneſſe
+<pb n="32" facs="tcp:13135:35"/>
+and perfection. If the Scrip<g ref="char:EOLhyphen"/>ture can make the man of God perfect, then there is no neede of any traditions of men to make vp this perfecti<g ref="char:EOLhyphen"/>on. This hath bene the com<g ref="char:EOLhyphen"/>mon doctrine of the Church, that the Scriptures are ſo per<g ref="char:EOLhyphen"/>fect in themſelues, that they containe the whole rule of faith. In this confeſsion, agree the Greeke Church, the La<g ref="char:EOLhyphen"/>tine Church, the Church of Rome, and all Writers in the Church of Rome haue helde vp this common faith vntill the Council of Trent; which Councill ended ſome fiftie yeres agoe. And then began theſe men, whom now we call Papiſts, to change this rule of faith in the Council of Trent:
+<pb n="33" facs="tcp:13135:35"/>
+For whereas before the rule of faith was euer confeſſed to be in the doctrine of the Scri<g ref="char:EOLhyphen"/>ptures; in that Council, vn<g ref="char:EOLhyphen"/>written Traditions were ta<g ref="char:EOLhyphen"/>ken into the rule of faith; and ſo they teach now that the Scripture is but one part of the rule of faith, and vnwritten Traditions of the Church of Rome another part: So that the whole rule is in the Scrip<g ref="char:EOLhyphen"/>tures, and in Traditions. Whereby it appeareth, that the rule of faith is by them changed: For I ſay that they are not able to prooue by any writer of the Church of <hi>Rome,</hi> (much leſſe by ancients) that the vnwritten Traditions of the Church of Rome, were helde to be a part of the rule
+<pb n="34" facs="tcp:13135:36"/>
+of faith, before the Counci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Trent. And becauſe the Church is certainely knowen by preſeruing the rule o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faith (for that is the true Church, which through al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſucceſsions holdeth the ſame faith deliuered by the Apo<g ref="char:EOLunhyphen"/>ſtles and Prophets, and that is no true Church which hol<g ref="char:EOLunhyphen"/>deth not the ſame faith; an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame faith is knowen by the ſame rule) therefore th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church of Rome that now is hauing changed the rule o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faith, hath aſſuredly change<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the faith: and hauing chan<g ref="char:EOLunhyphen"/>ged the faith, ceaſeth to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> true Church of Chriſt, be<g ref="char:EOLunhyphen"/>cauſe the Church is knowe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the faith which the Apo<g ref="char:EOLunhyphen"/>ſtles left to the Church: An<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="35" facs="tcp:13135:36"/>
+that Church, ſuch as it is, fol<g ref="char:EOLhyphen"/>lowing now a new rule of faith, can prooue their anti<g ref="char:EOLhyphen"/>quitie no ancienter then the rule: That rule being then de<g ref="char:EOLhyphen"/>uiſed ſome 50. yeeres agoe, it followeth, that when they ſeeke out their antiquity, they will finde their Church to be according to the antiquitie of the rule of their faith of ſome 50. yeres ſtanding, and no an<g ref="char:EOLhyphen"/>cienter. In the meane time they couſen the ſimple people that cannot iudge, with great boaſting of their antiquitie, and of the co<g ref="char:cmbAbbrStroke">̄</g>tinuance of their faith from the Apoſtles. But theſe be but vaine brags, as it will further appeare in the proceſſe thereof.</p>
+            <p>But firſt, that we may know
+<pb n="36" facs="tcp:13135:37"/>
+how faithful and peremptory the ancient Fathers and Wri<g ref="char:EOLhyphen"/>ters of the Church of Rome haue beene in this point, to prooue that nothing may be receiued into the rule of faith, ſauing only the Scriptures, of many teſtimonies I will cite ſome.</p>
+            <p>
+               <hi>Clemens Alexandrinus</hi> ſaith,<note place="margin">Strom. lib. 6.</note> 
+               <hi>The Eccleſiasticall rule, is the conſent and conſpiration of the olde and new Teſtament.</hi> By the Eccleſiaſticall rule, hee decla<g ref="char:EOLhyphen"/>reth what is that rule which ruleth the Church: And ſpea<g ref="char:EOLhyphen"/>king of the holy Scriptures, he ſaith, <hi>There is no other worke but this onely, that can bring ſal<g ref="char:EOLhyphen"/>uation to men. Athanaſius</hi> ſaith,<note place="margin">Contra gentes.</note> 
+               <hi>The holy Scriptures inſpired by God, are ſufficient to inſtruct</hi>
+               <pb n="37" facs="tcp:13135:37"/>
+               <hi>men in the trueth. Baſill</hi> ſayth,<note place="margin">Aſcet. de fide.</note> 
+               <hi>It is a manifeſt ſliding away from faith, and an euident ſigne of pride, either to reiect any thing of that which is written, or to bring in any thing that is not written:</hi> Where he prooueth this both by Scriptures and reaſons: For <hi>Chriſt his ſheepe heare his voice,</hi> therfore it muſt be the known voice of Chriſt in the Scriptures that muſt rule our faith. And the Apo<g ref="char:EOLhyphen"/>ſtle ſaith, <hi>That though it be a</hi>
+               <note place="margin">Gal. 1. 15.</note> 
+               <hi>mans teſtament, yet if it be con<g ref="char:EOLhyphen"/>firmed and ratified, no man may diſanull it, or adde any thing to it.</hi> Whereby <hi>Baſill</hi> moſt power<g ref="char:EOLhyphen"/>fully proueth, that the Teſta<g ref="char:EOLhyphen"/>ment of Chriſt being confir<g ref="char:EOLhyphen"/>med by his death, may not be diſanulled, or haue any thing
+<pb n="38" facs="tcp:13135:38"/>
+added vnto it: For this were euident forgerie in a mans Teſtament. And what then ſhall wee call this adding of vnwritten Traditions to the Teſtament of Ieſus Chriſt?</p>
+            <p>
+               <hi>Constantine</hi> the great had learned this of the orthodox Biſhops, and therefore hee ſayth, as <hi>Theodoret</hi> deliuereth<note place="margin">Theodor. lib. 1. ca. 7</note> his ſaying in the firſt Nicene Council: <hi>The Euangelicall and Apoſtolicall bookes, and the ora<g ref="char:EOLhyphen"/>cles of the olde Prophets, doe fully</hi>
+               <note place="margin">Plene nos inſtruunt.</note> 
+               <hi>inſtruct vs what we muſt vnder<g ref="char:EOLhyphen"/>ſtand of the will of God: there<g ref="char:EOLhyphen"/>fore laying aſide all contentions, let vs ſeeke out the ſolution of thoſe doubts that are propoſed, out of the holy Scriptures.</hi> S. <hi>Chry<g ref="char:EOLhyphen"/>ſostome</hi>
+               <note place="margin">In 2. Cor. Hom. 13.</note> ſayth, <hi>Seeing wee haue a moſt exact rule, balance, and</hi>
+               <pb n="39" facs="tcp:13135:38"/>
+               <hi>gnomon, that is, the doctrine of holy Scriptures, I beſeech you <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat you will not regard what this <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r that man ſayth, but ſeeke all <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe things out of the Scrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures.</hi> Where S. <hi>Chryſoſtome</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reacheth to the people, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rayeth them <hi>to read and ſearch <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Scriptures.</hi> A cleane con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rary courſe take theſe Popiſh doctors, who debarre the peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le from reading the Scrip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures in a known tongue, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o keepe them in ignorance, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elling them, that they muſt beleeue nothing, but that which the Church teacheth: by the Church they meane themſelues, who are their tea<g ref="char:EOLhyphen"/>chers. And they neuer declare to the people, how by the rule of faith deliuered in the Scri<g ref="char:EOLhyphen"/>ptures,
+<pb n="40" facs="tcp:13135:39"/>
+they ſhould examine their doctrines: but the blind people muſt take all at their handes, who are reſolued to holde them blinde ſtill; As Cardinall <hi>Caietan</hi> comming into <hi>Paris,</hi> and finding the people blinde, was not deſi<g ref="char:EOLhyphen"/>rous to remooue their blind<g ref="char:EOLhyphen"/>neſſe by inſtruction, but con<g ref="char:EOLhyphen"/>tent to abuſe their blindneſſe, and to leaue them as blinde as he found them: For when the people were deſirous to haue the Cardinals bleſsing, and therein the Popes; the Cardi<g ref="char:EOLhyphen"/>nall at the firſt refuſed, but finding the people earneſtly ſet vpon that motion, hee tur<g ref="char:EOLhyphen"/>ned to them, and ſayde theſe words: <hi>Quandoquidem hic po<g ref="char:EOLhyphen"/>pulus decipi vult, decipiatur in</hi>
+               <pb n="41" facs="tcp:13135:39"/>
+               <hi>nomine diaboli:</hi> that is, Seeing this people will needes be de<g ref="char:EOLhyphen"/>ceiued, let them be deceiued in the name of the deuill; and ſo gaue them the Popes bleſ<g ref="char:EOLhyphen"/>ſing. Thus doe the Popiſh teachers come to ſaue ſoules, making the people blind, kee<g ref="char:EOLhyphen"/>ping them in blindneſſe, and then profanely ſcoffing at that blindneſſe which them<g ref="char:EOLhyphen"/>ſelues procured. But S. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome</hi> and the ancient godly Fathers dealt farre otherwiſe with the people, alwayes ex<g ref="char:EOLhyphen"/>horting them to reade the Scriptures. And <hi>Chryſoſtome</hi> in the ſame place doeth with great reaſon and eloquence, both pull off this vaile of ig<g ref="char:EOLhyphen"/>norance, which the Papiſts labour to caſt ouer the eyes
+<pb n="42" facs="tcp:13135:40"/>
+of the people, and doeth very effectually deſcry the fraude and impoſture of ſuch teach<g ref="char:EOLhyphen"/>ers as theſe Popiſh teachers are: For, ſayth <hi>Chryſoſtome,</hi> would it not be thought a ve<g ref="char:EOLhyphen"/>ry abſurd thing, if in borrow<g ref="char:EOLhyphen"/>ing and lending of money, a man ſhould truſt him that brought him money, and not tell it after him? how is it then that this is thought ſo abſurd not to tell money after ano<g ref="char:EOLhyphen"/>ther, and ſhall we in things o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the greateſt weight ſimply follow the ſentence of othe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men without examination ſeeing we haue ſuch an exac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rule of holy Scripture? <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome</hi> prooueth that the lear<g ref="char:EOLunhyphen"/>ned Papiſts are couſeners, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſimple Papiſts ſottiſh, lik<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:13135:40"/>
+them that will not ſee their money tolde. This is the rea<g ref="char:EOLhyphen"/>ſon that in ſtead of golde and ſiluer, they receiue copper and braſſe: The damage re<g ref="char:EOLhyphen"/>doundeth to the deſtruction of their ſoules; and therefore they ought to haue a grea<g ref="char:EOLhyphen"/>ter care and foreſight, leſt in the matters concerning their ſoules, they bee abuſed by ſuch as dare change the rule of Faith; delighting in the ignorance of the ſimple, and profanely ſcoffing the igno<g ref="char:EOLhyphen"/>rance which themſelues haue cauſed. This thing the ſim<g ref="char:EOLhyphen"/>ple people ought more care<g ref="char:EOLhyphen"/>fully to looke to, more ex<g ref="char:EOLhyphen"/>actly to preuent, then any da<g ref="char:EOLhyphen"/>mage that can grow in their worldly eſtate.</p>
+            <p>
+               <pb n="44" facs="tcp:13135:41"/>
+               <hi>Cyrillus</hi> Biſhop of Alexan<g ref="char:EOLhyphen"/>dria<note place="margin">Lib. de re<g ref="char:EOLhyphen"/>cta fide ad regni.</note> ſaith; <hi>It is neceſsary for vs to follow the holy Scriptures, and from their preſcript in no manner of thing muſt we depart. Ter<g ref="char:EOLhyphen"/>tullian</hi> ſaith; <hi>The rule of Faith</hi>
+               <note place="margin">Lib. de ve<g ref="char:EOLhyphen"/>landis vir<g ref="char:EOLhyphen"/>gini.</note> 
+               <hi>is inſtituted by Chriſt, and it is one and the ſame which none may change, which none may reforme.</hi> Then whether the Papiſts wil call it an Alteration, or a Re<g ref="char:EOLhyphen"/>formation of the rule of faith, which in Trent they haue done, it is vtterly denied, that the Church may either alter or reforme that rule. S. <hi>Hil<g ref="char:EOLhyphen"/>larie</hi> ſaith; <hi>The preſumption, or</hi>
+               <note place="margin">Lib. ad Conſtan. Auguſt.</note> 
+               <hi>frailtie, or errour of ſome,</hi> (hee ſpeaketh there againſt the Ar<g ref="char:EOLhyphen"/>rians, but his wordes doe no leſſe touch the Papiſtes) <hi>hath either fraudulently confeſſed, or</hi>
+               <pb n="45" facs="tcp:13135:41"/>
+               <hi>impudently tranſgreſſed the vn<g ref="char:EOLhyphen"/>cha<g ref="char:cmbAbbrStroke">̄</g>geable co<g ref="char:cmbAbbrStroke">̄</g>ſtitution of Apoſtolike doctrine.</hi> So he calleth the rule of faith, <hi>Indemutabilem Conſti<g ref="char:EOLhyphen"/>tutionem Apoſtolicae doctrinae.</hi>
+            </p>
+            <p>S. <hi>Hierome</hi> ſaith; <hi>The Church</hi>
+               <note place="margin">
+                  <hi>Lib. 1. in Mich. c.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>of Chriſt, which dwelleth well, poſſeſsing the Churches ſpread o<g ref="char:EOLhyphen"/>uer the whole world, is ioyned to<g ref="char:EOLhyphen"/>gether in the vnitie of the ſpirit, and hath cities of the Lawe, and Prophets, of the Goſpel and A<g ref="char:EOLhyphen"/>poſtles, and goeth not out of her boundes, that is, out of the holy Scriptures.</hi> Thus he calleth the holy Scriptures, the bounds and limits of the Church, out of which limits the Church of Chriſt neuer goeth: but the Church of Rome is gone out of theſe bounds. <hi>S. Au<g ref="char:EOLhyphen"/>guſtine</hi>
+               <note place="margin">Libr. de bon. vidu<g ref="char:EOLhyphen"/>tat. cap. 1.</note> ſaith; <hi>The holy Scripture</hi>
+               <pb n="46" facs="tcp:13135:42"/>
+               <hi>hath fixed a rule for our doctrine, leſt we might dare to be wiſer the<g ref="char:cmbAbbrStroke">̄</g> we ought.</hi> I omit many for bre<g ref="char:EOLhyphen"/>uity. <hi>S. Gregory</hi> ſaith, <hi>In the vo<g ref="char:EOLhyphen"/>lume of the Scriptures are contei<g ref="char:EOLhyphen"/>ned</hi>
+               <note place="margin">In Ezek.</note> 
+               <hi>all things which doe teach vs, all things that edifie</hi> And again, <hi>All our munitio<g ref="char:cmbAbbrStroke">̄</g> is co<g ref="char:cmbAbbrStroke">̄</g>tained in the holy Writ.</hi> To theſe Ancients agree the writers of the <hi>Church</hi> of Rome. <hi>Peter Lombard</hi> ſaith;<note place="margin">Lib. 1. diſt. 1.</note> 
+               <hi>Matters of faith muſt be demon<g ref="char:EOLhyphen"/>ſtrated according to the authori<g ref="char:EOLhyphen"/>ties of holy Scriptures. T. Aquinas</hi>
+               <note place="margin">In 1. ad ſim. c. 6.</note> ſaith, <hi>The doctrine of the prophets and Apoſtles is called Canonicall, becauſe it is the rule of our vnder<g ref="char:EOLhyphen"/>ſtanding, and therefore no man ought to teach otherwiſe.</hi> The ſame might be proued out of others; but this may ſuffice.</p>
+            <p>From all which I conclude,
+<pb n="47" facs="tcp:13135:42"/>
+that the doctrine of the Scrip<g ref="char:EOLhyphen"/>tures hath euer bin held to be the rule of faith, which muſt rule the Church in teaching: For theſe men preſume that they deale with ſimple men, that may not examine their doctrines: and therefore they bid the people take doctrines at their hands, and ſeeke no further. And they tell vs, that the rule of faith is that which the Church teacheth. Theſe be mad fellowes, that preſume ſo much vpo<g ref="char:cmbAbbrStroke">̄</g> the ſimplicity of others: for the rule of faith is a rule that ruleth the Church; for deceiuers may come into the Church: The Scripture hath warned vs of deceiuers, that ſuch ſhall come. <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> with his deceiuing
+<pb n="48" facs="tcp:13135:43"/>
+Prieſts ſhall come. Now leſt theſe deceiuers ſhould abuſe vs with falſe doctrines, which they may call the doctrines of the Church, the rule of faith is fixed, to rule them, and all other. The ancient Fathers were all ruled by this rule: we are ruled by the ſame rule; onely theſe that haue chan<g ref="char:EOLhyphen"/>ged the rule, refuſe to be ruled by this rule. They tell vs that their doctrine muſt bee the rule to vs: but they tell vs not what ſhould rule their do<g ref="char:EOLhyphen"/>ctrine. Now here is the point which we entreat learned and vnlearned to conſider, who ſeeke out the true Church, and are deſirous to find it, and therein to reſt. The Church is knowen by the careful kee<g ref="char:EOLhyphen"/>ping
+<pb n="49" facs="tcp:13135:43"/>
+of the true faith, that is, the true Church, which from the Apoſtles in all ſucceſsions hath held the true faith: the true faith is knowen by the rule of faith: the rule is the ſame in all ages. This rule hath beene helde inuiolable from the Apoſtles times downeward, in the Greeke Church, in the Latine Church, euen in the Church of Rome, vntill the Councill of Trent. And in the Coun<g ref="char:EOLhyphen"/>cill of Trent we find this rule changed: For whereas be<g ref="char:EOLhyphen"/>fore, the Church helde this rule alwayes, to bee the Pro<g ref="char:EOLhyphen"/>pheticall and Apoſtolicall do<g ref="char:EOLhyphen"/>ctrine, conteined in the holy Scriptures; now they haue made the rule to bee Scrip<g ref="char:EOLhyphen"/>tures,
+<pb n="50" facs="tcp:13135:44"/>
+and vnwritten Tradi<g ref="char:EOLhyphen"/>tions. Theſe vnwritten Tra<g ref="char:EOLhyphen"/>ditions they call the word of God, as well as Scriptures, and thus haue they made a word of God of their owne inuention. By this meanes they magnifie the Popes au<g ref="char:EOLhyphen"/>thoritie, and haue turned the Supremacie into a Godhead, and will not vnderſtand that they worſhip <hi>Antichriſt</hi> in the Church: For theſe Traditi<g ref="char:EOLhyphen"/>ons are the Popes word, as the Scripture is Gods word. And they bluſh not to teach that the word of the Pope, is the word of God. And thus haue they ſet vp in the church another God, and another word of God. And what can <hi>Antichriſt</hi> doe more then this?</p>
+            <p>
+               <pb n="51" facs="tcp:13135:44"/>Then in ſeeking the true Church, wee muſt follow the rule: we follow the ſame rule, that all the fathers followed, and becauſe we finde the rule cha<g ref="char:cmbAbbrStroke">̄</g>ged in the preſent Church of Rome, therfore we are ſure that it cannot bee the true Church, that hath cha<g ref="char:cmbAbbrStroke">̄</g>ged the rule of faith, by which the true Church was alwaies knowen heeretofore, and muſt bee knowen heereafter. And as they haue changed the rule of faith, ſo haue they changed the Iudge of the controuer<g ref="char:EOLhyphen"/>ſies of faith: For before the Councill of Trent, the Church neuer held the Pope to be Iudge of Controuerſies of faith. Before the ſame time, the Church neuer helde
+<pb n="52" facs="tcp:13135:45"/>
+the Pope to bee aboue gene<g ref="char:EOLhyphen"/>rall Councils; but his autho<g ref="char:EOLhyphen"/>ritie alwayes (euen in the greateſt ruffe and pride of Popes) was yet helde to bee vnder the authoritie of a ge<g ref="char:EOLhyphen"/>nerall Councill.</p>
+            <p>Concerning the iudge of controuerſies of Faith, the ancient Writers, and the wri<g ref="char:EOLhyphen"/>ters of the Church of Rome, haue written no otherwiſe, then as we write and ſpeake. In the Council of Nice, <hi>Theo<g ref="char:EOLhyphen"/>doret</hi>
+               <note place="margin">Lib. 1. cap. 1.</note> declareth how <hi>Constan<g ref="char:EOLhyphen"/>tine</hi> deſcribed the iudge of controuerſies of faith: <hi>In the diſputations of things diuine,</hi> ſayth hee, <hi>the Biſhops haue the doctrine of the holy Spirit writ<g ref="char:EOLhyphen"/>ten: For the Euangelicall and A<g ref="char:EOLhyphen"/>poſtolicall bookes, and the oracles</hi>
+               <pb n="53" facs="tcp:13135:45"/>
+               <hi>of the ancient Prophets doe fully inſtruct vs: and therefore let vs take the determination of queſti<g ref="char:EOLhyphen"/>ons from the wordes of the holy Ghoſt.</hi> In which words he de<g ref="char:EOLhyphen"/>clareth, firſt, <hi>that in diuine Diſputations, or in Controuer<g ref="char:EOLhyphen"/>ſies of Faith, wee haue the do<g ref="char:EOLhyphen"/>ctrine of the holy Ghost written:</hi> then let them tell vs from what ſpirit the vnwritte<g ref="char:cmbAbbrStroke">̄</g> word of Trent proceedeth? Se<g ref="char:EOLhyphen"/>condly he ſayth, that <hi>the wri<g ref="char:EOLhyphen"/>tings of the Prophets and Apoſtles doe fully inſtruct vs;</hi> then that writing is the full rule of faith; for that which doeth fully in<g ref="char:EOLhyphen"/>ſtruct vs, and not in part, is the full rule, and not a part thereof. Thirdly he ſaith, that <hi>all determinations of doubts muſt be taken from this written word:</hi>
+               <pb n="54" facs="tcp:13135:46"/>
+Then hee prooueth vndoub<g ref="char:EOLhyphen"/>tedly that this written word doeth ſuffice to ende all con<g ref="char:EOLhyphen"/>trouerſies of faith: becauſe the words of men may be ſubiect to errour, but the wordes of the holy Ghoſt are not. This is the Catholike determinati<g ref="char:EOLhyphen"/>on of the iudge of controuer<g ref="char:EOLhyphen"/>ſies in faith, which hath beene in all ſucceſsion preſerued vn<g ref="char:EOLhyphen"/>till the Councill of Trent. <hi>Optatus</hi> an ancient Father hol<g ref="char:EOLhyphen"/>deth the ſame way in ſeeking a iudge: for thus he reaſoneth againſt the Donatiſts, <hi>Let no</hi>
+               <note place="margin">Optat. lib. 5.</note> 
+               <hi>man beleeue you, let no man be<g ref="char:EOLhyphen"/>leeue vs, for all we are contenti<g ref="char:EOLhyphen"/>ous men: Iudges muſt be ſought, but if wee take Chriſtians, they cannot be helde indifferent for both ſides, becauſe the trueth is</hi>
+               <pb n="55" facs="tcp:13135:46"/>
+               <hi>encumbred by contentions: Wee muſt then ſeeke a iudge without. But if he be a Pagan, hee cannot vnderſtand our myſteries: if a Iewe, he is an enemy to Chriſtian baptiſme. Therefore on earth no iudgement will be found for this: wee muſt ſeeke the Iudge from heauen: But what need we knock at heauen, ſeeing wee haue him here in his Goſpel?</hi> Thus <hi>Opta<g ref="char:EOLhyphen"/>tus</hi> ſought a iudge, and could find none but Chriſt ſpeaking in his Goſpel, in his written word. How eaſie had it beene for <hi>Optatus</hi> to haue named the Pope, if the Pope had then beene eſteemed the iudge of controuerſies of faith? But this is a late inuention not knowen to the ancient fa<g ref="char:EOLhyphen"/>thers. Saint <hi>Auguſtine</hi> ſpea<g ref="char:EOLhyphen"/>keth
+<pb n="56" facs="tcp:13135:47"/>
+in like ſort; <hi>This matter</hi>
+               <note place="margin">Libr. 2. cap. 33. de nupt. &amp; concupiſc.</note> (ſaith he, writing againſt the Pelagians) <hi>requireth a Iudge, and therefore let Chriſt iudge.</hi> And then hee produceth the words of Chriſt as the words of the Iudge. Hee ſaith alſo, <hi>Let the Apoſtle iudge with him, for in the Apoſtle Chriſt ſpea<g ref="char:EOLhyphen"/>keth:</hi> And then he produceth the words of the Apoſtle, as being the words of Chriſt the Iudge. And in another place: <hi>It is not without great cauſe that</hi>
+               <note place="margin">Ad Creſc. lib. 2. cap. 31.</note> 
+               <hi>the Canon of the Scriptures is or<g ref="char:EOLhyphen"/>deined with ſuch wholeſome vi<g ref="char:EOLhyphen"/>gilance, whereunto certaine books of the Prophets and Apoſtles doe pertaine, which wee dare not iudge at all; but according to them may we freely iudge of other writings, whether they be writ<g ref="char:EOLhyphen"/>ten</hi>
+               <pb n="57" facs="tcp:13135:47"/>
+               <hi>by beleeuers, or no beleeuers.</hi> After this, till the Councill of Trent, the Church helde the ſame determination ſtill con<g ref="char:EOLhyphen"/>cerning the Iudge of contro<g ref="char:EOLhyphen"/>uerſies of faith. Indeed there were ſome Friars and Cano<g ref="char:EOLhyphen"/>niſts that flattered the Pope, and the Pope was as willing to make vſe of their flatte<g ref="char:EOLhyphen"/>rings: But theſe flatterers were reiected as men odious, and could neuer finde any credit in the world before the Coun<g ref="char:EOLhyphen"/>cil of Trent; In ſo much that the Popes themſelues (and what is it that they durſt not doe?) durſt not claime this authoritie before that time. Pope <hi>Clement</hi> the firſt, hath<note place="margin">Dist. 37 cap 14. This Pope liued anno 1047.</note> theſe wordes: <hi>You muſt not ſeeke a ſtrange ſenſe, which may</hi>
+               <pb n="58" facs="tcp:13135:48"/>
+               <hi>be adulterated and inwardly cor<g ref="char:EOLhyphen"/>rupted, nor confirme ſuch a ſenſe by the authoritie of Scripture: but a man muſt take the ſenſe of the trueth from the Scriptures themſelues, ſeeing that one may haue the full and firme rule of faith and trueth in the Scrip<g ref="char:EOLhyphen"/>tures.</hi> Thus ſayth a Pope: <hi>Integra &amp; firma regula verita<g ref="char:EOLhyphen"/>tis ex Scripturis.</hi> Then there were no vnwritten Traditi<g ref="char:EOLhyphen"/>ons thought of at that time, to be thruſt into the rule of faith. Secondly he ſaith, that <hi>the vnderſtanding of the trueth, muſt be ſought out of the Scrip<g ref="char:EOLhyphen"/>tures themſelues:</hi> So that hee knew no other Iudge of the controuerſies of faith. Thus was the doctrine of the Iudge of controuerſies maintained
+<pb n="59" facs="tcp:13135:48"/>
+vntill the time of the Council of Baſill.</p>
+            <p>The Councill of Baſil doth likewiſe maintaine the anci<g ref="char:EOLhyphen"/>ent doctrine of the Church concerning this point: For thus they ſay: <hi>Lex diuina pra<g ref="char:EOLhyphen"/>xis</hi>
+               <note place="margin">Concil Ba<g ref="char:EOLhyphen"/>ſil. Seſs. 4.</note> 
+               <hi>Chriſti, Apoſtolica, &amp; Eccle<g ref="char:EOLhyphen"/>ſiae primitiuae, vna cum Concilijs Doctoribuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fundantibus ſe ve<g ref="char:EOLhyphen"/>raciter in eadem, pro veriſsimo &amp; indifferente iudice in hoc Ba<g ref="char:EOLhyphen"/>ſilienſi Concilio admittentur:</hi> That is, The diuine Law (or holy Scripture) the practiſe of Chriſt, of his Apoſtles, and of the Primitiue Church, to<g ref="char:EOLhyphen"/>gether with Councils and Doctours, grounding them<g ref="char:EOLhyphen"/>ſelues truely thereon, ſhall be admitted for the moſt true and indifferent Iudge in this
+<pb n="60" facs="tcp:13135:49"/>
+Council of Baſill. We finde by this, what was the ſenſe and iudgement of the Church in our fathers dayes; for this was done about the yeere of Chriſt 1440. Then before the Councill of Trent there was no change in theſe things: but there they haue changed all, and made a new Church: but with ſuch ſleights and cun<g ref="char:EOLhyphen"/>ning, that it is apparant, that it was not religion and con<g ref="char:EOLhyphen"/>ſcience which mooued them, but ambition, and a ſingular eſtimation and pride of their owne wit; holding ſuch a ſcorneful conceit of other na<g ref="char:EOLhyphen"/>tions, whom they call <hi>Tra<g ref="char:EOLhyphen"/>montani,</hi> that they preſume that they can make all other men fooles. This they practi<g ref="char:EOLhyphen"/>ſed
+<pb n="61" facs="tcp:13135:49"/>
+in the Council of Trent, and through the ſimplici<g ref="char:EOLhyphen"/>tie and ouer-much credulitie which they haue found in ſome, haue partly well con<g ref="char:EOLhyphen"/>firmed their purpoſe: for there were certaine queſtions which were determined in that Councill of Trent, and yet neuer diſcuſſed: as name<g ref="char:EOLhyphen"/>ly, whether the Popes autho<g ref="char:EOLhyphen"/>ritie be aboue the authoritie of a generall Councill: and, whether the <hi>Pope</hi> be the iudge of the controuerſies of faith.</p>
+            <p>Theſe are now holden as things determined, and yet they were neuer diſcuſſed. This made <hi>Gentiletus</hi> ex<g ref="char:EOLhyphen"/>claime<note place="margin">Innocent. Gentileti exam, con<g ref="char:EOLhyphen"/>cilij Trid.</note> in theſe words; <hi>Ecquis fando vnqua<g ref="char:cmbAbbrStroke">̄</g> audiuit, vt quaestio in diſputatione<g ref="char:cmbAbbrStroke">̄</g> non reuocata, non</hi>
+               <pb n="62" facs="tcp:13135:50"/>
+               <hi>examinata, non tractata, fuerit tamen deciſa, concluſa, rata, ap<g ref="char:EOLhyphen"/>probata? tanta aſtutia hic tra<g ref="char:EOLhyphen"/>ctata est quaeſtio de Rom. Ponti<g ref="char:EOLhyphen"/>ficis authoritate ſupra Concilium:</hi> that is; Did euer any man heare of the like? that there ſhould bee a queſtion, which though it were neuer brought to diſputation, neuer exami<g ref="char:EOLhyphen"/>ned, neuer handled, ſhould notwithſtanding be decided, concluded, confirmed, ap<g ref="char:EOLhyphen"/>prooued? By ſuch cunning was the queſtion handled heere, concerning the Popes authoritie ouer a Council: by this let the world iudge of this Councill, whether it was like other Councils. Is this a thing to bee tolerated in the Church, that a companie of
+<pb n="63" facs="tcp:13135:50"/>
+               <hi>Italians,</hi> men without Religi<g ref="char:EOLhyphen"/>on, without the feare of God, ſhuld in the pride of their wits put a trick vpon all the Chur<g ref="char:EOLhyphen"/>ches in Chriſtendom? Let the ſimple ſoules that are ſeduced lift vp their eyes, and ſee the ſnares that are prouided to catch them: let them vnder<g ref="char:EOLhyphen"/>ſtand, that the Prieſts and Ie<g ref="char:EOLhyphen"/>ſuites, who now are imploy<g ref="char:EOLhyphen"/>ed about their ſubuerſion, are inſtruments to driue and al<g ref="char:EOLhyphen"/>lure them into theſe nettes, which theſe Inginers haue deuiſed by ſubtilty and fraud. Theſe trappes are laide with great ſubtiltie to inthrall their ſoules: let them at the leaſt looke vp, and open their eyes, and behold the danger that is before them: If they
+<pb n="64" facs="tcp:13135:51"/>
+will wilfully fall into theſe ſnares, then may they blame themſelues for their owne de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Thus haue wee found out, that the rule of Faith was changed in the Councill of Trent: That in the ſame Councill, the Iudge of Con<g ref="char:EOLhyphen"/>trouerſies of faith was like<g ref="char:EOLhyphen"/>wiſe changed: that all things were then changed; whereby the Church is knowen to bee a Church: For before that, the Church was knowen to bee a Church, by the Vnitie which it helde with the Ca<g ref="char:EOLhyphen"/>tholike Church. This was the Vnitie of the Bodie, the Vnitie of the Head, the Vni<g ref="char:EOLhyphen"/>tie of the Spirit, and the Vni<g ref="char:EOLhyphen"/>tie of Faith: Theſe were in
+<pb n="65" facs="tcp:13135:51"/>
+ſome meaſure all held, vntill the Councill of Trent chan<g ref="char:EOLhyphen"/>ged all. Now all theſe things being changed and forſaken by the preſent Church of Rome, it remaineth to con<g ref="char:EOLhyphen"/>clude, that the preſent <hi>Church</hi> of Rome, is no Church of Chriſt, but an aſſembly, I ſay, not of Heretikes, but of farre worſe, and more dangerous then any Heretikes heereto<g ref="char:EOLhyphen"/>fore haue bene: For the for<g ref="char:EOLhyphen"/>mer Heretikes, that haue o<g ref="char:EOLhyphen"/>penly forſaken the Church, could neuer doe ſo much harme, as <hi>Antichrist</hi> with his creatures, who hauing ſecret<g ref="char:EOLhyphen"/>ly forſaken the Church, yet make open claime to the Church, and to all the rights thereof.</p>
+            <p>
+               <pb n="66" facs="tcp:13135:52"/>Seeing now that the now Church of Rome is not the true Church, where then ſhall we finde it? The Reformed Churches, as now they are called, being the generation of them that haue liued of long time before, in the Com<g ref="char:EOLhyphen"/>munion of the old Church of Rome, might haue continued in that courſe, if the Church of Rome had not bin notori<g ref="char:EOLhyphen"/>ouſly changed from a Church to no Church. For in olde times we find a diſtinction ob<g ref="char:EOLhyphen"/>ſerued, betweene the Church of Rome, and the Court of Rome. The Church we may call all theſe Weſterne Chur<g ref="char:EOLhyphen"/>ches, that helde Communion with the Church of Rome then, and maintained the
+<pb n="67" facs="tcp:13135:52"/>
+Popes Supremacie in things ſpirituall, as then the Supre<g ref="char:EOLhyphen"/>macie was vnderſtood, but not as now they vnderſtand it: Now becauſe they helde in this poynt with the Pope, they were therefore vnder<g ref="char:EOLhyphen"/>ſtood as belonging to the Church of Rome thus farre. The Court of Rome were they that flattered the Pope, and ſought his greatneſſe without reſpect to trueth or reaſon: Such were Friers and Canoniſts, which in the ende preuailed againſt the Church, and now call them<g ref="char:EOLhyphen"/>ſelues the Church of Rome. Theſe with their adherents, (for ſome Biſhops and Prieſts did leaue the Church, and ad<g ref="char:EOLhyphen"/>here vnto theſe) preuailed in
+<pb n="68" facs="tcp:13135:53"/>
+the Councill of <hi>Trent,</hi> by fraudulent ſleights; and for<g ref="char:EOLhyphen"/>ſaking the rule of faith, chan<g ref="char:EOLhyphen"/>ging the Iudge of Contro<g ref="char:EOLhyphen"/>uerſies, extolling the Popes Supremacie aboue all that were before them, gaue a iuſt occaſion vnto the Reformed Churches, which after this re<g ref="char:EOLhyphen"/>uolted from them, to ſeeke the Church whereſoeuer they could finde it; becauſe they ſaw euidently now, that in the Popes communion it was no longer to be found. If any man obiect vnto mee, that <hi>Martin Luther</hi> beganne to preach before the Councill of <hi>Trent</hi> (for hee began firſt to preach againſt Indulgences in the yeere of Chriſt, 1517. and the firſt Seſsion of the Council
+<pb n="69" facs="tcp:13135:53"/>
+of <hi>Trent</hi> was held in the yeere 1545. the laſt Seſsion of that Councill was held in the yere 1563.) <hi>Luther</hi> then hauing be<g ref="char:EOLhyphen"/>gun to preach againſt the <hi>Pope</hi> before the Councill of <hi>Trent,</hi> it may bee thought that the Council of <hi>Trent</hi> gaue not oc<g ref="char:EOLhyphen"/>caſion to the reuolt which fol<g ref="char:EOLhyphen"/>lowed; ſeeing that <hi>Martin Lu<g ref="char:EOLhyphen"/>ther</hi> had in ſome ſort begun it before. To this I anſwer, that when <hi>Martin Luther</hi> bega<g ref="char:cmbAbbrStroke">̄</g> firſt to preach againſt Indulge<g ref="char:cmbAbbrStroke">̄</g>ces, hee thought of no reuolting from the Pope: For he prea<g ref="char:EOLhyphen"/>ched the doctrines that he was ſure the Church had held before him, and which were agreeable to the rule of faith, which ſtood at that time vn<g ref="char:EOLhyphen"/>changed in the Church. And
+<pb n="70" facs="tcp:13135:54" rendition="simple:additions"/>
+that <hi>Luther</hi> had no meaning to reuolt from the Church, him<g ref="char:EOLhyphen"/>ſelfe doeth plainely confeſſe: and it is euident by the whole courſe of the Storie of theſe times. <hi>Luther</hi> for a long time after his preaching againſt In<g ref="char:EOLhyphen"/>dulgences, ſought peace with the Pope; and therfore he ap<g ref="char:EOLhyphen"/>pealed vnto <hi>Pope Leo,</hi> nothing doubting, but that the Pope would fauour the truth which he had ſo clearly proued from the Scriptures. When he ſaw that the Pope went directly from the trueth; then he ap<g ref="char:EOLhyphen"/>pealed from the Pope to a ge<g ref="char:EOLhyphen"/>nerall Councill: For <hi>Luther</hi> neuer doubted, but that there was, and alwayes would bee a Church that would fauour the trueth againſt the Pope
+<pb n="71" facs="tcp:13135:54"/>
+and his flatterers. So <hi>Luther</hi> fell away from the Pope, but ſtill hee helde himſelfe ſure in the Church, teaching nothing but ſuch things as hee offered to be examined according to the rule of faith, which al<g ref="char:EOLhyphen"/>wayes ruled the doctrines of the Church: And thus he con<g ref="char:EOLhyphen"/>tinued vntill his death. He di<g ref="char:EOLhyphen"/>ed after the Councill of <hi>Trent</hi> was begun. In appealing fro<g ref="char:cmbAbbrStroke">̄</g> the Pope to a generall Coun<g ref="char:EOLhyphen"/>cill, he followed the common practiſe of many that were oppreſſed by the Pope, or that feared the Popes oppreſ<g ref="char:EOLhyphen"/>ſion in the Church of Rome: who appealed from the Pope and Court of Rome, to the Church of Rome, or to a ge<g ref="char:EOLhyphen"/>nerall Councill. Such Ap<g ref="char:EOLhyphen"/>peales
+<pb n="72" facs="tcp:13135:55"/>
+were made ſometimes by Emperours and Kings, which were wronged by the Pope; as namely by <hi>Lodouike Bauare,</hi> Emperour, and by <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> the faire, the French King: Sometimes by learned men of inferiour degree, as by <hi>Mi<g ref="char:EOLhyphen"/>chael Caeſina,</hi> with whom did then adhere <hi>William Occham,</hi> and others.</p>
+            <p>The ſame diſtinction be<g ref="char:EOLunhyphen"/>tweene the Church of Rome, and Court of Rome, was ve<g ref="char:EOLhyphen"/>ry apparant by the actions and proceſſe helde by thoſe two Councils, collected of theſe Weſterne Churches, the Councill of Conſtance, and of Baſill: which Coun<g ref="char:EOLhyphen"/>cils wee finde to be a body re<g ref="char:EOLhyphen"/>preſentatiue of a Church,
+<pb n="73" facs="tcp:13135:55"/>
+which was oppoſite to the Pope and Court of Rome: So that aſſuredly there was a Church which helde the rule of faith againſt the Pope and his flatterers. In that Church was <hi>Luther,</hi> in that Church were the learned men of theſe two Councils; who procee<g ref="char:EOLhyphen"/>ded roundly againſt the Popes authoritie: they prooued that the Popes might erre, &amp; that in many things they did erre: they maintained the rule of faith, which ſtood inuiolated in the Church till their dayes: they maintained the ancient Iudge of controuerſies of faith, which before had al<g ref="char:EOLhyphen"/>wayes beene acknowledged: they proteſted that to giue that authoritie to the Pope,
+<pb n="74" facs="tcp:13135:56"/>
+(which now ſince that time is giuen, and ſince the Councill of Trent is confirmed to the Pope by theſe flatterers) this ſay they, is to giue an open entrance for Antichriſt into the Church to ſubuert Chri<g ref="char:EOLhyphen"/>ſtian Religion. Then at that time the trueth was helde vp in ſome meaſure: there was then acknowledged an autho<g ref="char:EOLhyphen"/>ritie in the Church aboue the Pope: there was a Iudge of generall Councils, the ſame which the Church before re<g ref="char:EOLhyphen"/>ceiued, and which wee ac<g ref="char:EOLhyphen"/>knowledge: there was then no alteratio<g ref="char:cmbAbbrStroke">̄</g>, no change made of the rule of faith: but ſince this time all theſe things are changed in the Councill of Trent.</p>
+            <p>
+               <pb n="75" facs="tcp:13135:56"/>This Councill of <hi>Trent,</hi> (to giue you ſome taſte of it) was neither generall, nor free, nor lawfull: Not generall, for theſe Weſterne parts, be<g ref="char:EOLhyphen"/>cauſe diuers Kings and Na<g ref="char:EOLhyphen"/>tions proteſted againſt it: namely, the King of <hi>England,</hi> and the French King: and would not ſend their Biſhops and Ambaſſadours to it. Ma<g ref="char:EOLhyphen"/>ny Nations helde it for a pri<g ref="char:EOLhyphen"/>uate conuenticle of a few ga<g ref="char:EOLhyphen"/>thered together againſt the Church. For all <hi>England, Scotland, Ireland,</hi> all <hi>France,</hi> all <hi>Germanie,</hi> that helde againſt that Councill, will make a farre greater part then all the reſt, that conſented to that Councill. It was not free; for none were admitted to
+<pb n="76" facs="tcp:13135:57"/>
+haue voyce therein, but ſuch as ſhould bee bound by an oath of bondage and ſlauery to the Pope. It was not a lawfull Aſſembly; forſomuch as it was neither called by a lawfull authoritie: for againſt the firſt calling of it, the Em<g ref="char:EOLhyphen"/>perour himſelfe diſſented, and proteſted againſt it by his Ambaſſadour <hi>Vergas;</hi> the Kings alſo who had interſt in theſe Weſterne parts, prote<g ref="char:EOLhyphen"/>ſted againſt it: Neither was the manner of proceeding in that Councill lawfull. <hi>Genti<g ref="char:EOLhyphen"/>letus</hi> a French Lawyer proo<g ref="char:EOLhyphen"/>ueth the nullities of that Council: For by the Imperi<g ref="char:EOLhyphen"/>all Conſtitution it is ordeined, that the Decrees which are made againſt Lawes, are not
+<pb n="77" facs="tcp:13135:57"/>
+onely vnprofitable, but void, and to be taken for things not done. <hi>Cap. Imperiali 25. q. 2. l. non dubium:</hi> Hee propoſeth therefore, and prooueth a great number of the nullities of that Councill, which make the whole to be void, and of no validitie, as being done a<g ref="char:EOLhyphen"/>gainſt the Lawes.</p>
+            <p>This is that Councill that hath changed the faith of the Church, that was held from the Apoſtles to that time vn<g ref="char:EOLhyphen"/>changed: they haue brought into the Church the Popes word, to match the word of God: this was neuer done in the Church before. And therefore the reformed Chur<g ref="char:EOLhyphen"/>ches holding the ancient rule of faith, which the Church
+<pb n="78" facs="tcp:13135:58"/>
+had held fro<g ref="char:cmbAbbrStroke">̄</g> the Apoſtles, till the Councill of Trent, muſt needes prooue themſelues <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtand in the true ſucceſsion of the Church: For the true Church muſt continue to the end of the world: And ſeeing it cannot co<g ref="char:cmbAbbrStroke">̄</g>tinue in them that haue forſaken the Vnitie of the Catholique Church, and the rule of faith, it muſt needs be granted, that it is co<g ref="char:cmbAbbrStroke">̄</g>tinued in them that holde the vnitie with the Catholike Church, and the rule of faith.</p>
+            <p>Thus then from the Vnitie of the Church, we haue proo<g ref="char:EOLhyphen"/>ued, that the Church of Rome that now is, is not the true Church of Chriſt, be<g ref="char:EOLhyphen"/>cauſe it is not one with the true Church of Chriſt. It
+<pb n="79" facs="tcp:13135:58"/>
+holdeth not the Vnitie of that Bodie, nor the Vnitie of the Head, nor the Vnitie of the Spirit, nor the Vnitie of Faith: And holding not V<g ref="char:EOLhyphen"/>nitie with the Catholique Church, it cannot be a church at all. The Reformed Chur<g ref="char:EOLhyphen"/>ches hold this Vnitie, and are thereby prooued to bee one with the Catholike Church: fro<g ref="char:cmbAbbrStroke">̄</g> this which I haue ſaid, di<g ref="char:EOLhyphen"/>uers trueths do apparantly in<g ref="char:EOLhyphen"/>ſue, which I will briefly open.</p>
+            <p>The conſent of the Church, which is but one in the fa<g ref="char:EOLhyphen"/>thers and their children, is prooued to ſtand in the fun<g ref="char:EOLhyphen"/>damentall points of doctrine, before the Councill of <hi>Trent;</hi> I ſay, in the fundamentall poynts: For diuers errours
+<pb n="80" facs="tcp:13135:59"/>
+were crept into the Church before: but theſe errours were ſuch as did not raze the foundation; for a Church may ſtand, and bee a true Church, though ſome er<g ref="char:EOLhyphen"/>rours creepe into it. But if theſe errours change the foundation, (as the errours doe which change the rule of faith, which is the foundation of the Church) then without doubt, it ceaſeth to bee a Church. The errours which before this time did creepe into the Church, did not change the foundation, be<g ref="char:EOLhyphen"/>cauſe all men in the Church held the ſame olde and true foundation in the rule of faith till then. The Popes Supre<g ref="char:EOLhyphen"/>macie, as men then vnder<g ref="char:EOLhyphen"/>ſtand
+<pb n="81" facs="tcp:13135:59"/>
+it, was generally em<g ref="char:EOLhyphen"/>braced: But ſurely this was not a fundamentall errour: For we doubt not, but many good and godly men were among them, and ſaued, though they did acknow<g ref="char:EOLhyphen"/>ledge the Popes Supremacie in ſuch a meaſure, as Saint <hi>Bernard,</hi> and the Councill of <hi>Constance,</hi> and of <hi>Baſill</hi> did ac<g ref="char:EOLhyphen"/>knowledge the ſame.</p>
+            <p>It appeareth hereby alſo,<note place="margin">2</note> that the true Church of Chriſt, as before I haue de<g ref="char:EOLhyphen"/>clared, did ſtand vp in ſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort vntill this time of the Councill of Trent: For the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue Church may be prooued <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the vnitie with the Catho<g ref="char:EOLhyphen"/>licke Church, and by the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule of faith, which till then
+<pb n="82" facs="tcp:13135:60"/>
+was helde in the Church.</p>
+            <p>It appeareth likewiſe, that<note place="margin">3</note> the reformed Churches, are in the ſucceſsion and conti<g ref="char:EOLhyphen"/>nuation of that true, ancient, and onely Church, which ſtood before the Councill of Trent, and ſhall endure to the end of the world: For be<g ref="char:EOLhyphen"/>fore that time there were, as wee may ſay, two faces of a Church; the one of the court of Rome, the other of the Church: But in the Coun<g ref="char:EOLhyphen"/>cill of Trent the Court o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rome preuailed: therefore the Church fell off, and made a ſeparation from the Court of Rome: But the Church though falling away from the Court of Rome, conti<g ref="char:EOLhyphen"/>nued ſtill the ſame Church
+<pb n="83" facs="tcp:13135:60"/>
+becauſe it helde ſtill the ſame rule of faith, and forſaked not the communion which before it had with the Catho<g ref="char:EOLhyphen"/>licke Church: But the Court of Rome, which now calleth it ſelfe the Church, and the onely Catholike Church, al<g ref="char:EOLhyphen"/>tered the rule of faith, and fell away from the communion of the Catholike Church.</p>
+            <p>It appeareth alſo, that our<note place="margin">4</note> fathers which before vs liued and died in the Church of Rome, had all neceſſarie meanes of ſaluation, becauſe the rule of faith was held then inuiolable: And albeit the Fri<g ref="char:EOLhyphen"/>ars, the Canoniſts, and flat<g ref="char:EOLhyphen"/>terers of the Pope had cor<g ref="char:EOLhyphen"/>rupted many things in the Church, yet the doctrines of
+<pb n="84" facs="tcp:13135:61"/>
+the trueth were permitted to be preached according to the rule of faith: which prooued that our fathers liuing and dying in Popery before the Councill of Trent, had the meanes to be ſaued: which meanes are now taken away by theſe that are now in the Church of Rome; becauſe they haue altered the rule of faith, which conteineth the meanes to ſaluation. Now where they come with their declamations, and tell vs of the diuiſions that we haue a<g ref="char:EOLhyphen"/>mong our ſelues, ſome Lu<g ref="char:EOLhyphen"/>therans, ſome Zwinglians, &amp;c. and that we can haue no Church, becauſe we haue not vnitie in the faith, and theſe diuiſions ſhew the breach of
+<pb n="85" facs="tcp:13135:61"/>
+vnitie: I anſwere, that there may be ſome diſagreement in ſome points of Religion, and the ſides diſagreeing may <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth holde the true Church, ſo long as theſe diſagree<g ref="char:EOLhyphen"/>ments be not in matters fun<g ref="char:EOLhyphen"/>damentall; and that they who ſo diſagree, notwithſtanding <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll their diſagreement, holde one and the ſame rule of faith. We ſay that betweene Luthe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans and Zwinglians, as theſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all them, the ſame rule of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith is helde and acknowled<g ref="char:EOLhyphen"/>ged without alteration: And therfore both theſe ſides may belong to one and the ſame Church, becauſe they holde one and the fame rule of faith with the Catholike Church, with the Fathers, and with
+<pb n="86" facs="tcp:13135:62"/>
+the Church of Rome before the Trent Councill. But if they can proue that there are ſome ſects which doe not ful<g ref="char:EOLhyphen"/>ly and entirely holde this rule of faith, then will wee diſ<g ref="char:EOLhyphen"/>claime co<g ref="char:cmbAbbrStroke">̄</g>munion with them as wee doe with Anabaptiſts with Zwinkfeldians, with Papiſts for the ſame cauſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And therefore when our ad<g ref="char:EOLhyphen"/>uerſaries ſpeake or write o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Church, they muſt leau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> boyes play in making idle de<g ref="char:EOLhyphen"/>clamations: let them ſpeak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plainely and ſoundly to theſe points, and declare the vniti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Church, and open th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rule of faith, wherein the tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church hath alwayes had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nitie, and will alwayes hold<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the end of the world. The
+<pb n="87" facs="tcp:13135:62"/>
+ſhould make conſcience of their writings not to deceiue the ſimple with idle diſcour<g ref="char:EOLhyphen"/>ſes of by-points. They diſ<g ref="char:EOLhyphen"/>courſe of antiquitie, vniuerſa<g ref="char:EOLhyphen"/>litie, and conſent, wordes in ſhew making for them as they ſuppoſe, in truth againſt them: They tell vs that the Religion which now is profeſſed in Rome, is that Religion which conuerted ENGLAND firſt to the true Faith: They tell vs that wee can haue no true Church, becauſe we haue ſo many diuiſions among vs; and many ſuch like diſcourſes as theſe, and very proper de<g ref="char:EOLhyphen"/>clamations: which when wee reade, we haue reaſon to ſuſ<g ref="char:EOLhyphen"/>pect, that they who write thus, either are men of no
+<pb n="88" facs="tcp:13135:63"/>
+learning and vnderſtanding; or elſe write things againſt their owne conſciences, to holde ſimple ſoules ſtill in er<g ref="char:EOLhyphen"/>rour, whom they haue once bewitched with theſe ſilly ſleights and ſhewes. They preſume of ignorant ſoules, and ſeeke to maintaine igno<g ref="char:EOLhyphen"/>rance in the people: for with<g ref="char:EOLhyphen"/>out groſſe and in a maner wil<g ref="char:EOLhyphen"/>full ignorance, none can bee deceiued in theſe things.</p>
+            <p>That which I haue ſpoken of the Catholicke Church, is agreeable to that Article of our Faith, <hi>I beleeue the holy Catholicke Church, the commu<g ref="char:EOLhyphen"/>nion of Saints:</hi> Which words doe prooue, that the Church of Rome, as now it ſtands, cannot bee the Catholique
+<pb n="89" facs="tcp:13135:63"/>
+Church, nor haue communi<g ref="char:EOLhyphen"/>on with it. The Papiſts in de<g ref="char:EOLhyphen"/>liuering the notes or markes of the Church, make long diſ<g ref="char:EOLhyphen"/>courſes of other markes, and are afraid to ſpeake of theſe true markes conteined in our Creede.</p>
+            <p>Firſt, the Church is holy: When theſe men ſpeake of the holineſſe of the Church, they tell vs of a holines which is in the Sacraments: which thing wee denie not; but wee deny that the Sacraments make men holy without faith They tell vs alſo of the holy Martyrs that haue beene in the Church before, that the Church is made holy by them. This indeede prooueth the holineſſe of them that
+<pb n="90" facs="tcp:13135:64"/>
+haue liued and died in the faith, and for the faith; but this wil not make the Church after them to be holy. The preſent Church is holy, not by the holineſſe of them that haue liued before, but by the holineſſe of them that liue in it. The Church is holy, be<g ref="char:EOLhyphen"/>cauſe it conſiſts of Saints, of members who are holy: theſe members are holy both by imputed ſanctification from Chriſt the head, who for their ſakes did ſanctifie himſelfe, as hee ſaith, <hi>For their ſakes I ſan<g ref="char:EOLhyphen"/>ctifie</hi>
+               <note place="margin">Ioh. 17. 19</note> 
+               <hi>my ſelfe, that they alſo might be ſanctified through the trueth:</hi> and alſo by inherent holineſſe; for the Apoſtle tea<g ref="char:EOLhyphen"/>cheth, that the whole Church and euery member thereof,
+<pb n="91" facs="tcp:13135:64"/>
+receiueth increaſe of the bo<g ref="char:EOLhyphen"/>dy from the head: So that men may not ſo groſſely flat<g ref="char:EOLhyphen"/>ter themſelues as the Papiſts doe, thinking that they may be the Church, and yet liue without holineſſe. They who haue no part in holineſſe, haue no part in the Church; for the Church is holy. Saint <hi>Iohn</hi> ſaith, <hi>Euery man that hath</hi>
+               <note place="margin">1. Ioh. 3. 3</note> 
+               <hi>this hope in him, purgeth him<g ref="char:EOLhyphen"/>ſelfe, euen as he is pure.</hi> And a<g ref="char:EOLhyphen"/>gaine, <hi>If wee ſay that wee haue</hi>
+               <note place="margin">1. Ioh. 1. 6</note> 
+               <hi>fellowſhip with him, and walke in darkeneſſe, we lie, and doe not the trueth.</hi> And therefore the Church of Rome, ſeeking a title of holineſſe, without ho<g ref="char:EOLhyphen"/>lineſſe of life, ſo falling away from true holineſſe, is aſſured<g ref="char:EOLhyphen"/>ly fallen away alſo from be<g ref="char:EOLhyphen"/>ing
+<pb n="92" facs="tcp:13135:65"/>
+a Church. It is called CA<g ref="char:EOLhyphen"/>THOLIKE, becauſe it hath beene ſpread in all places, and hath beene and ſhall be at all times: In which reſpect it is diſtinguiſhed fro<g ref="char:cmbAbbrStroke">̄</g> the Church of the Iewes, which was but in one nation, and for a cer<g ref="char:EOLhyphen"/>taine time. The Church of Rome was alwayes helde by the Ancients to differ fro<g ref="char:cmbAbbrStroke">̄</g> the Catholicke Church, though it was euer helde to be a part of the Catholike Church: but that it differed from the Ca<g ref="char:EOLhyphen"/>tholike, as a particular from the vniuerſall, the ancient writers neuer made doubt. S. <hi>Hierome</hi> writing of one that confounded the orders of the Church, preferring a Deacon before a Prieſt (which confu<g ref="char:EOLhyphen"/>ſion
+<pb n="93" facs="tcp:13135:65"/>
+was practiſed then in the Church of Rome) prooueth that this was but a particular diſorder ſuffred in the Church of Rome, againſt the order of the Catholike Church ſpread ouer the world: And there<g ref="char:EOLhyphen"/>fore he declareth, that though in reſpect of particular aſſem<g ref="char:EOLhyphen"/>blies there was one Church of Rome, another of France, another of Britaine, &amp;c. yet all agree in one Church; and the authoritie of the Catho<g ref="char:EOLhyphen"/>licke Church is greater then the authoritie of any part, though it be Rome it ſelfe. And therefore he ſayth, <hi>Si au<g ref="char:EOLhyphen"/>thoritas quaeritur, orbis maior eſt vrbe:</hi> meaning, the authoritie of the Catholicke Church ſpred ouer the world, is grea<g ref="char:EOLhyphen"/>ter
+<pb n="94" facs="tcp:13135:66"/>
+then the authoritie of the Church of Rome, being as then it was reputed, but the Church of one Citie: Wher<g ref="char:EOLhyphen"/>by he prooueth plainely, that the Church of Rome was not the Catholike Church. Saint <hi>Auguſtine</hi> writing to the ſame purpoſe, obſerueth that in his time one <hi>Vrbicus</hi> a Romane beganne to ſpread newe do<g ref="char:EOLhyphen"/>ctrines concerning faſting; namely, that faſting did waſh away errors and ſinnes; that in faſting there was merit; that men were compelled to ſinne who tooke a breakefaſt; that the kingdome of heauen was not in meat and drinke, but in faſting; and ſuch like nouelties: which Saint <hi>Auſtin</hi>
+               <note place="margin">Auguſt. Epiſt. 86.</note> refuteth, and ſayth, that this
+<pb n="95" facs="tcp:13135:66"/>
+               <hi>Vrbicus</hi> did blaſpheme the Church diſperſed ouer the whole world, except the Church of Rome, and ſome few of the Weſt: Then it fol<g ref="char:EOLhyphen"/>loweth, that in his iudgement the Church of Rome was not the Catholicke Church, be<g ref="char:EOLhyphen"/>cauſe <hi>Vrbicus</hi> who blaſphe<g ref="char:EOLhyphen"/>med the Catholike Church, commended and followed the Church of Rome. Many things might be brought for this purpoſe, but I ſtriue for breuitie: This may ſuffice to prooue that the ancient Fa<g ref="char:EOLhyphen"/>thers did not hold the Church of Rome to be the Catholike Church.</p>
+            <p>In this Church there is a communion of Saints, which Communion the Papiſtes de<g ref="char:EOLhyphen"/>uiſe
+<pb n="96" facs="tcp:13135:67"/>
+to bee betwene the Saints in heauen, and the Saints on earth, and them that bee in purgatorie. Theſe bee vaine conceits without any ground: For the Church hath this Communion with GOD the Father, and with IESVS CHRIST, and among them<g ref="char:EOLhyphen"/>ſelues, as Saint <hi>Iohn</hi> teach<g ref="char:EOLhyphen"/>eth;<note place="margin">1. Ioh. 1. 3.</note> 
+               <hi>Our Communion is with the Father; and his Sonne Ieſus Chriſt.</hi> And declaring this Communion, which the members of the Church haue one with another, hee ſaith: <hi>If wee walke in the light, as hee</hi>
+               <note place="margin">1 Ioh. 1. 3, 7.</note> 
+               <hi>is in the light, wee haue Com<g ref="char:EOLhyphen"/>munion one with another, and the blood of Ieſus Christ doeth cleanſe vs from all ſinne.</hi> In which wordes hee declareth
+<pb n="97" facs="tcp:13135:67"/>
+who are partakers of this Communion; and conſe<g ref="char:EOLhyphen"/>quently who are members of this Church: For wee haue Communion one with ano<g ref="char:EOLhyphen"/>ther, and the blood of Ieſus Chriſt cleanſeth vs from all ſinne. Then they haue this Communion, who by the blood of Chriſt are cleanſed from all ſinne: And there<g ref="char:EOLhyphen"/>fore they who are in Purga<g ref="char:EOLhyphen"/>torie, can haue no part of this Communion, becauſe they are not cleanſed from all their ſinne by the blood of Chriſt. This Communion then is a Communion which the Church of the redeemed haue among themſelues: Theſe bee they who ſing that new Song: <hi>Thou art worthie</hi>
+               <note place="margin">
+                  <hi>Apoc.</hi> 5. 9<g ref="char:punc">▪</g>
+               </note>
+               <pb n="98" facs="tcp:13135:68"/>
+               <hi>to take the Booke, and to open the Seales thereof: For thou wast ſlaine, and haſt redeemed vs to God by thy blood, out of euery kinred, and tongue, and people, and nation.</hi> This is the Com<g ref="char:EOLhyphen"/>munion that the Church of the redeemed haue; and therefore it is called, The Communion of Saints; that is, of ſuch as are ſanctified by the blood of Ieſus Chriſt. But this Communion is not in the Church of Rome: For the Communion which is in the Church of Rome, is ſuch a Communion, which by their owne confeſsion is held among ſuch men as haue no inward grace, but onely the externall profeſsion of Reli<g ref="char:EOLhyphen"/>gion. This being their owne
+<pb n="99" facs="tcp:13135:68"/>
+confeſsion, it muſt needs fol<g ref="char:EOLhyphen"/>low, that the Communion of Saints is not among them: For Saints haue no Commu<g ref="char:EOLhyphen"/>nion with wicked, who haue no inward grace, who are the members of the deuill, and not of Chriſt: The reaſon is, becauſe betweene the mem<g ref="char:EOLhyphen"/>bers of Chriſt, and the mem<g ref="char:EOLhyphen"/>bers of the Deuill, there can bee no Communion, as S <hi>Paul</hi> prooueth: <hi>For what fellowſhip</hi>
+               <note place="margin">2. Cor. 6.</note> 
+               <hi>hath righteouſneſſe with vnrigh<g ref="char:EOLhyphen"/>teouſneſſe? or what Communion hath light with darkeneſſe? or what concord hath Chriſt with Beliall? or what part haue be<g ref="char:EOLhyphen"/>leeuers with vnbeleeuers? &amp;c.</hi> Thus haue wee prooued, that there is no agreement be<g ref="char:EOLhyphen"/>tweene the Church of Rome,
+<pb n="100" facs="tcp:13135:69"/>
+and the Catholike Church, becauſe the Church of Rome is neither holy, nor Catho<g ref="char:EOLhyphen"/>like; neither in it is found the Communion of Saints.</p>
+            <p>Then they who boaſt ſo much of the Catholique Church, the Catholique Church, ſuffer themſelues to be blinded by coſening com<g ref="char:EOLhyphen"/>panions who know not the trueth: For they thinke to hold the Catholike Church, before they will bee acquain<g ref="char:EOLhyphen"/>ted with a particular Church. Let them bee intreated to vn<g ref="char:EOLhyphen"/>derſtand, that if they deſire to be in the Catholike Church, without which there is no ſaluation, they muſt betake themſelues to ſome particu<g ref="char:EOLhyphen"/>lar Church heere on earth,
+<pb n="101" facs="tcp:13135:69"/>
+which holdeth Vnitie with the Catholike Church. And then ſhall they be ſure to bee in the Catholike Church, when they are found in ſuch a Church which holdeth V<g ref="char:EOLhyphen"/>nitie with the Catholique Church: that is, by the mi<g ref="char:EOLhyphen"/>niſtery of the Church where<g ref="char:EOLhyphen"/>in you liue, and are taught: you muſt vnderſtand, that you are collected as members into one bodie: that from the Head you may receiue an in<g ref="char:EOLhyphen"/>creaſe of this Body, to the e<g ref="char:EOLhyphen"/>difying of your ſelues in loue, and ſo bee truely knit to the Head of the Church Ieſus Chriſt; that by one and the ſame Spirit you may be iuſti<g ref="char:EOLhyphen"/>fied and ſanctified, &amp; ſo holde the vnitie of the Spirit: that
+<pb n="102" facs="tcp:13135:70"/>
+by one rule of faith you may be taught and ruled, and that you may be ſure that the ſame rule which hath been the rule of faith from the Apoſtles times, and continued euer in the Church, be the rule of your faith. When thus by the miniſterie of a particular Church, (in whatſoeuer place of the world that Church be) you are gathered into one Body, vnder one Head, go<g ref="char:EOLhyphen"/>uerned by one Spirit, holding one and the ſame rule of Faith; then may you be aſſu<g ref="char:EOLhyphen"/>red, that you are in the Ca<g ref="char:EOLhyphen"/>tholike Church: for the Ca<g ref="char:EOLhyphen"/>tholike Church being vniuer<g ref="char:EOLhyphen"/>ſall, and not particular, cannot be fixed to any one particular place: but the men that muſt
+<pb n="103" facs="tcp:13135:70"/>
+be gathered into the Church, are particular men, and holde particular places, and there<g ref="char:EOLhyphen"/>fore muſt vſe the helpe of par<g ref="char:EOLhyphen"/>ticular Churches to bring them to the Catholicke Church, or elſe they ſhall ne<g ref="char:EOLhyphen"/>uer find it. If thus men would ſeek the Church, they ſhould be ſure to finde it: there is but one way: they that receiue not the loue of the trueth, are iuſtly deceiued, and periſh: that all might be damned, who beleeued not the trueth, but had pleaſure in vnrighte<g ref="char:EOLhyphen"/>ouſneſſe. So that when decei<g ref="char:EOLhyphen"/>uers come with their ſtrong illuſions, yet ſhall they be able to preuaile againſt none, but onely ſuch as loue not the trueth: But they who loue
+<pb n="104" facs="tcp:13135:71"/>
+the trueth, and ſeeke it with care and diligence, as they would ſeeke ſiluer and golde, or things that are eſteemed more precious, ſhall by the great mercy of God vndoub<g ref="char:EOLhyphen"/>tedly bee ſaued from errour and damnation: And all ſuch by the free mercy of God, ſhall be brought into the true Church, that therein, as in the Arke of <hi>Noah,</hi> they may be ſaued: For vnto the ende of the world muſt that alwayes be verified which is written, <hi>The Lord added to the Church</hi>
+               <note place="margin">Acts 2. 47.</note> 
+               <hi>from day to day ſuch as ſhould be ſaued.</hi>
+            </p>
+            <p>
+               <pb n="105" facs="tcp:13135:71"/>FOraſmuch as I haue taken this as a thing granted by the Papiſts, That they haue added their vnwritten Tradi<g ref="char:EOLhyphen"/>tions, which they call Apo<g ref="char:EOLhyphen"/>ſtolicall, vnto the Scriptures, to make vp the totall rule of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith, the Scriptures making <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut one part thereof, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Traditions another; by which alteration of the rule of faith they haue forſaken co<g ref="char:cmbAbbrStroke">̄</g>munion with the Church, which till that time alwayes held this rule, &amp; which to the end of the world muſt holde <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; I haue here ſet downe the words of the Trent Council, and of <hi>Car. Bellar.</hi> expounding the ſame for their ſakes, who being ignorant, may doubt whether this be true or not.</p>
+            <q>
+               <pb n="106" facs="tcp:13135:72"/>
+               <bibl>CONCIL. TRIDENT. Seſſ. 4. Decret. 1.</bibl>
+               <p>Omnes Libros veteris &amp; noui Testamenti, nec non Tra<g ref="char:EOLhyphen"/>ditiones ipſas, tum ad fidem, tum ad mores pertinentes, tan<g ref="char:EOLhyphen"/>quam vel ore tenus à Chriſto, vel a Spiritus ſancto dictat as<g ref="char:punc">▪</g> &amp; continua ſucceſsione in Ec<g ref="char:EOLhyphen"/>cleſia Catholica conſeruat as, pari pietatis affectu ac reue<g ref="char:EOLhyphen"/>rentia ſuſcipit, ac veneratu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tridentina Synodus.</p>
+            </q>
+            <p>That is,</p>
+            <p>All the books of the old and new Teſtament, as al<g ref="char:EOLhyphen"/>ſo the Traditions them<g ref="char:EOLhyphen"/>ſelues,
+<pb n="107" facs="tcp:13135:72"/>
+pertaining both to faith and maners, as being either pronounced from the mouth of Chriſt, or deliuered by the holy Ghoſt, and by continuall ſucceſsio<g ref="char:cmbAbbrStroke">̄</g> preſerued in the Catholicke Church, the Councill of Trent recei<g ref="char:EOLhyphen"/>ueth and honoureth with like and equall affection of piety and reuerence.</p>
+            <q>
+               <bibl>Card. Bellarm. lib. de verbo Dei non ſcript. cap. 3.</bibl>
+               <p>
+                  <hi>Aſſerimus, in Scripturis non contineri expreſſè totam doctrinam neceſſariam, ſiue</hi>
+                  <pb n="108" facs="tcp:13135:73"/>
+                  <hi>de fide, ſiue de moribus, &amp; proinde preter verbum De<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſcriptum requiri etiam ver<g ref="char:EOLhyphen"/>bum Dei non ſcriptum, id est, diuinas &amp; Apoſtolicas Tra<g ref="char:EOLhyphen"/>ditiones.</hi>
+               </p>
+            </q>
+            <p>That is.</p>
+            <p>Wee affirme, that in the Scriptures is not contei<g ref="char:EOLhyphen"/>ned expreſſely all neceſſa<g ref="char:EOLhyphen"/>rie doctrine, whether of faith or maners, and ther<g ref="char:EOLhyphen"/>fore beſides the written word of God, is required alſo the vnwritten word of God, namely, Diuine and Apoſtolicall Tradi<g ref="char:EOLhyphen"/>tions.</p>
+            <q>
+               <pb n="109" facs="tcp:13135:73"/>
+               <bibl>Card. Bellar. ibid. cap. 4.</bibl>
+               <p>Scripturae ſine Traditioni<g ref="char:EOLhyphen"/>us nec fuerunt ſimpliciter ne<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſariae, nec ſufficientes.</p>
+            </q>
+            <p>That is.</p>
+            <p>The Scriptures without Traditions, were neither ſimply neceſſary, nor yet ſufficient.</p>
+            <q>
+               <bibl>Card. Bellar. ibid. cap. 12.</bibl>
+               <p>
+                  <hi>Dico, Scripturam, etſi non <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it facta praecipuè, vt ſit re<g ref="char:EOLhyphen"/>gula fidei, eſſe tamen regulam fidei, non totalem, ſed partia<g ref="char:EOLhyphen"/>lem. Totalis enim regula fi<g ref="char:EOLhyphen"/>dei eſt verbum Dei, ſiue re<g ref="char:EOLhyphen"/>uelatio</hi>
+                  <pb n="110" facs="tcp:13135:74"/>
+                  <hi>Dei Eccleſiae facta, quae diuiditur in duas regulas partiales, Scripturam &amp; Tra<g ref="char:EOLhyphen"/>ditiones.</hi>
+               </p>
+            </q>
+            <p>That is.</p>
+            <p>I ſay, that the Scripture, though it was not made eſpecially to be the rule of faith, yet is the rule of faith not in whole, but in part: for the whole rule of faith is the word of God, or the reuelation of God made to the Church, which is diuided into two partie<g ref="char:EOLhyphen"/>rules, Scripture, and Tra<g ref="char:EOLhyphen"/>ditions.</p>
+            <p>
+               <pb n="111" facs="tcp:13135:74"/>Theſe things the learned Pa<g ref="char:EOLhyphen"/>piſts make no doubt of; and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herfore I take them as things granted by them, becauſe all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir learned men grant the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame. For the vnlearned I <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aue ſet them down, that they may vnderſtand, that the rule of faith, which the Church held before, &amp; which holdeth <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Church in vnitie, is by <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem forſake<g ref="char:cmbAbbrStroke">̄</g>: And therfore if they will ſeeke a true Church, they muſt ſeek ſuch a Church which holdeth ſtill the ſame rule of faith with the true Church of Chriſt, which was before the Trent Council, and muſt ſtand till the end of the world.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
